@@ -113,7 +113,7 @@
             "last_commit": "2026-03-04T02:54:53Z",
             "owner": "Grasscutters",
             "repo": "Grasscutter",
-            "stars": 16792
+            "stars": 16793
           }
         },
         {
@@ -241,10 +241,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:25:09Z",
+            "last_commit": "2026-08-13T09:53:41Z",
             "owner": "Pumpkin-MC",
             "repo": "Pumpkin",
-            "stars": 10681
+            "stars": 10682
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-07-20T15:33:40Z",
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2366
+            "stars": 2367
           }
         }
       ],
@@ -318,7 +318,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-12T14:53:20Z",
+            "last_commit": "2026-08-13T08:48:38Z",
             "owner": "osuTitanic",
             "repo": "titanic",
             "stars": 57
@@ -414,7 +414,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T03:46:30Z",
+            "last_commit": "2026-08-13T09:18:20Z",
             "owner": "yoncodes",
             "repo": "enigma",
             "stars": 11
@@ -437,7 +437,7 @@
             "last_commit": "2026-08-12T18:33:16Z",
             "owner": "TrinityCore",
             "repo": "TrinityCore",
-            "stars": 10716
+            "stars": 10717
           }
         },
         {
@@ -451,7 +451,7 @@
             "last_commit": "2026-08-13T00:10:30Z",
             "owner": "azerothcore",
             "repo": "azerothcore-wotlk",
-            "stars": 8767
+            "stars": 8768
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:32:19.605Z",
+    "last_updated": "2026-08-13T09:57:20.623Z",
     "original_repository": "fishiatee/awesome-privateserver",
     "original_repository_sha": "ecfbbabe6ae452bb65e67583b7c371065a8f6748",
     "enhanced_repository": "enhansome/enhansome-privateserver",
