@@ -113,7 +113,7 @@
             "last_commit": "2026-03-04T02:54:53Z",
             "owner": "Grasscutters",
             "repo": "Grasscutter",
-            "stars": 16797
+            "stars": 16798
           }
         },
         {
@@ -241,10 +241,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T18:25:29Z",
+            "last_commit": "2026-08-17T08:45:47Z",
             "owner": "Pumpkin-MC",
             "repo": "Pumpkin",
-            "stars": 10714
+            "stars": 10739
           }
         },
         {
@@ -258,7 +258,7 @@
             "last_commit": "2026-07-09T11:31:21Z",
             "owner": "pmmp",
             "repo": "PocketMine-MP",
-            "stars": 3574
+            "stars": 3571
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-08-14T15:03:31Z",
             "owner": "ferrumc-rs",
             "repo": "ferrumc",
-            "stars": 2370
+            "stars": 2372
           }
         }
       ],
@@ -318,7 +318,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T21:11:45Z",
+            "last_commit": "2026-08-17T01:41:02Z",
             "owner": "osuTitanic",
             "repo": "titanic",
             "stars": 57
@@ -414,7 +414,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T05:44:10Z",
+            "last_commit": "2026-08-17T08:51:12Z",
             "owner": "yoncodes",
             "repo": "enigma",
             "stars": 12
@@ -434,10 +434,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-16T09:15:01Z",
+            "last_commit": "2026-08-16T20:19:20Z",
             "owner": "TrinityCore",
             "repo": "TrinityCore",
-            "stars": 10723
+            "stars": 10724
           }
         },
         {
@@ -448,10 +448,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T19:27:10Z",
+            "last_commit": "2026-08-16T21:27:29Z",
             "owner": "azerothcore",
             "repo": "azerothcore-wotlk",
-            "stars": 8783
+            "stars": 8785
           }
         },
         {
@@ -473,7 +473,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:20:59.866Z",
+    "last_updated": "2026-08-17T09:34:38.198Z",
     "original_repository": "fishiatee/awesome-privateserver",
     "original_repository_sha": "dc37f6c7ac45bd23a97423f9fb0f02c0cf159e44",
     "enhanced_repository": "enhansome/enhansome-privateserver",
