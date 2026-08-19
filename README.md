@@ -4,7 +4,7 @@
 
 A non-exhaustive list of free custom server backend implementations for various online games that can be [self-hosted](https://en.wikipedia.org/wiki/Self-hosting_\(network\)).
 
-This list is partially inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 313,384 | 🐛 0 | 📅 2026-08-17, go check them out for cool self-hosted goodies!
+This list is partially inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 313,622 | 🐛 0 | 📅 2026-08-17, go check them out for cool self-hosted goodies!
 
 Contributions are always appreciated, check the [Contributing](#contributing) section for more details!
 
@@ -69,7 +69,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Innersloth.
 
-* 🟩 [Impostor](https://github.com/Impostor/Impostor) ⭐ 2,358 | 🐛 35 | 🌐 C# | 📅 2026-08-14 `C#/GPL-3.0`
+* 🟩 [Impostor](https://github.com/Impostor/Impostor) ⭐ 2,358 | 🐛 37 | 🌐 C# | 📅 2026-08-18 `C#/GPL-3.0`
 
 ***
 
@@ -136,7 +136,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Westwood Studios (now Electronic Arts).
 
-* 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,244 | 🐛 1,602 | 🌐 C# | 📅 2026-08-01 `C#/GPL-3.0`
+* 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,249 | 🐛 1,602 | 🌐 C# | 📅 2026-08-01 `C#/GPL-3.0`
 
 ***
 
@@ -165,7 +165,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by Shift Up. Published by Level Infinite.
 
-* 🟩 [EpinelPS](https://github.com/EpinelPS/EpinelPS) ⭐ 531 | 🐛 20 | 🌐 C# | 📅 2026-08-18 `C#/AGPL-3.0`
+* 🟩 [EpinelPS](https://github.com/EpinelPS/EpinelPS) ⭐ 533 | 🐛 21 | 🌐 C# | 📅 2026-08-18 `C#/AGPL-3.0`
 
 ***
 
@@ -174,7 +174,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by miHoYo. Published by miHoYo in China and HoYoverse worldwide.
 
-* 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) ⭐ 16,798 | 🐛 152 | 🌐 Java | 📅 2026-03-04 `Java/AGPL-3.0`
+* 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) ⭐ 16,802 | 🐛 152 | 🌐 Java | 📅 2026-03-04 `Java/AGPL-3.0`
   * 🟩 [AGS-GC](https://github.com/Anime-Game-Servers/AGS-GC) ⭐ 174 | 🐛 37 | 🌐 Java | 📅 2026-05-28
   * 🟥 [LunaGC](https://github.com/pmagixc/LunaGC)
 * 🟩 [KazusaGI\_cb2](https://github.com/Hiro420/KazusaGI_cb2) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2026-02-07 `C#/MIT`
@@ -223,7 +223,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Project Moon.
 
-* 🟩 [OpenLethe](https://github.com/LEAGUE-OF-NINE/OpenLethe) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-08-17 `C#`
+* 🟩 [OpenLethe](https://github.com/LEAGUE-OF-NINE/OpenLethe) ⭐ 5 | 🐛 0 | 🌐 C# | 📅 2026-08-19 `C#`
 
 ***
 
@@ -232,9 +232,9 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Mojang Studios.
 
-* 🟩 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) ⭐ 10,750 | 🐛 357 | 🌐 Rust | 📅 2026-08-18 `Rust/MIT`
+* 🟩 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) ⭐ 10,764 | 🐛 280 | 🌐 Rust | 📅 2026-08-19 `Rust/MIT`
 * 🟩 [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) ⚠️ Archived `PHP/LGPL-3.0`
-* 🟩 [FerrumC](https://github.com/ferrumc-rs/ferrumc) ⭐ 2,372 | 🐛 26 | 🌐 Rust | 📅 2026-08-14 `Rust/MIT`
+* 🟩 [FerrumC](https://github.com/ferrumc-rs/ferrumc) ⭐ 2,376 | 🐛 26 | 🌐 Rust | 📅 2026-08-14 `Rust/MIT`
 
 ***
 
@@ -243,7 +243,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by Applibot. Published by Square Enix. This game had reached End of Service since April 2024.
 
-* 🟩 [Lunar Tear](https://github.com/Walter-Sparrow/lunar-tear) ⭐ 1,040 | 🐛 1 | 🌐 Go | 📅 2026-05-28 `Go/MIT`
+* 🟩 [Lunar Tear](https://github.com/Walter-Sparrow/lunar-tear) ⭐ 1,041 | 🐛 1 | 🌐 Go | 📅 2026-05-28 `Go/MIT`
 
 ***
 
@@ -285,7 +285,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Gravity.
 
-* 🟩 [rAthena](https://github.com/rathena/rathena) ⭐ 3,528 | 🐛 625 | 🌐 C++ | 📅 2026-08-17 `C/GPL-3.0`
+* 🟩 [rAthena](https://github.com/rathena/rathena) ⭐ 3,529 | 🐛 620 | 🌐 C++ | 📅 2026-08-19 `C/GPL-3.0`
 
 ***
 
@@ -295,7 +295,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Bluepoch.
 
 * 🟥 [sonetto-rs](https://github.com/Yoshk4e/sonetto-rs) ⚠️ Archived `Rust/ARR`
-* 🟩 [enigma](https://github.com/yoncodes/enigma) ⭐ 12 | 🐛 15 | 🌐 Rust | 📅 2026-08-18 `Rust`
+* 🟩 [enigma](https://github.com/yoncodes/enigma) ⭐ 12 | 🐛 12 | 🌐 Rust | 📅 2026-08-18 `Rust`
 
 ***
 
@@ -304,7 +304,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Amazing Seasun Games.
 
-* 🟩 [MikuSB](https://github.com/MikuLeaks/MikuSB) ⭐ 629 | 🐛 28 | 🌐 C# | 📅 2026-06-04 `C#/MIT`
+* 🟩 [MikuSB](https://github.com/MikuLeaks/MikuSB) ⭐ 631 | 🐛 28 | 🌐 C# | 📅 2026-06-04 `C#/MIT`
 
 ***
 
@@ -343,15 +343,15 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Cygames. This game had reached End of Service since July 2024.
 
-* 🟥 [Starpoint](https://github.com/duosii/starpoint) ⭐ 282 | 🐛 6 | 🌐 TypeScript | 📅 2025-04-01 `TypeScript/GPL-3.0`
+* 🟥 [Starpoint](https://github.com/duosii/starpoint) ⭐ 283 | 🐛 6 | 🌐 TypeScript | 📅 2025-04-01 `TypeScript/GPL-3.0`
 
 ### World of Warcraft (2004)
 
 > \[!NOTE]
 > Developed and published by Blizzard Entertainment.
 
-* 🟩 [TrinityCore](https://github.com/TrinityCore/TrinityCore) ⭐ 10,729 | 🐛 1,523 | 🌐 C++ | 📅 2026-08-18 `C++/GPL-2.0`
-* 🟩 [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) ⭐ 8,793 | 🐛 2,472 | 🌐 C++ | 📅 2026-08-18 `C++/GPL-2.0`
+* 🟩 [TrinityCore](https://github.com/TrinityCore/TrinityCore) ⭐ 10,731 | 🐛 1,525 | 🌐 C++ | 📅 2026-08-18 `C++/GPL-2.0`
+* 🟩 [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) ⭐ 8,801 | 🐛 2,480 | 🌐 C++ | 📅 2026-08-19 `C++/GPL-2.0`
 * 🟩 [C-MaNGOS](https://github.com/cmangos/mangos-wotlk) ⭐ 554 | 🐛 71 | 🌐 C++ | 📅 2026-08-17 `C++/GPL-2.0` (WotLK branch)
 
 ***
@@ -372,8 +372,8 @@ If one or more projects hold enough significance to warrant their addition, they
 
 When adding entries, you should reference how existing ones are written to ensure consistency and accuracy.
 
-If you have any questions, feel free to [create an issue](https://github.com/fishiatee/awesome-privateserver/issues/new) ⭐ 125 | 🐛 2 | 📅 2026-08-15. If you have anything neat to add to the list, [open a pull request](https://github.com/fishiatee/awesome-privateserver/compare) ⭐ 125 | 🐛 2 | 📅 2026-08-15!
+If you have any questions, feel free to [create an issue](https://github.com/fishiatee/awesome-privateserver/issues/new) ⭐ 126 | 🐛 2 | 📅 2026-08-15. If you have anything neat to add to the list, [open a pull request](https://github.com/fishiatee/awesome-privateserver/compare) ⭐ 126 | 🐛 2 | 📅 2026-08-15!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
