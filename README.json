@@ -107,7 +107,7 @@
                 "last_commit": "2026-03-04T02:54:53Z",
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16802
+                "stars": 16803
               }
             },
             {
@@ -238,10 +238,10 @@
                 "archived": false,
                 "id": 834966974,
                 "language": "Rust",
-                "last_commit": "2026-08-19T08:33:12Z",
+                "last_commit": "2026-08-19T11:33:35Z",
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 10764
+                "stars": 10766
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2026-08-14T15:03:31Z",
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2376
+                "stars": 2377
               }
             }
           ],
@@ -465,7 +465,7 @@
                 "last_commit": "2026-08-19T06:59:25Z",
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8801
+                "stars": 8800
               }
             },
             {
@@ -493,8 +493,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T09:26:46.564Z",
+    "last_updated": "2026-08-19T12:47:49.918Z",
     "original_repository": "fishiatee/awesome-privateserver",
+    "original_repository_id": 1131549899,
     "original_repository_sha": "dc37f6c7ac45bd23a97423f9fb0f02c0cf159e44",
     "enhanced_repository": "enhansome/enhansome-privateserver",
     "enhanced_repository_description": null,
