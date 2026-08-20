@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-18T09:17:23Z",
                 "owner": "pfyy",
                 "repo": "OpenBachelorS",
-                "stars": 20
+                "stars": 22
               }
             }
           ],
@@ -107,7 +107,7 @@
                 "last_commit": "2026-03-04T02:54:53Z",
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16803
+                "stars": 16804
               }
             },
             {
@@ -238,10 +238,10 @@
                 "archived": false,
                 "id": 834966974,
                 "language": "Rust",
-                "last_commit": "2026-08-19T11:33:35Z",
+                "last_commit": "2026-08-20T08:40:15Z",
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 10766
+                "stars": 10796
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-07-09T11:31:21Z",
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3571
+                "stars": 3572
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2026-08-14T15:03:31Z",
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2377
+                "stars": 2378
               }
             }
           ],
@@ -450,7 +450,7 @@
                 "last_commit": "2026-08-18T07:44:29Z",
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10731
+                "stars": 10733
               }
             },
             {
@@ -462,7 +462,7 @@
                 "archived": false,
                 "id": 61980658,
                 "language": "C++",
-                "last_commit": "2026-08-19T06:59:25Z",
+                "last_commit": "2026-08-19T15:55:52Z",
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
                 "stars": 8800
@@ -477,7 +477,7 @@
                 "archived": false,
                 "id": 5559277,
                 "language": "C++",
-                "last_commit": "2026-08-17T20:53:14Z",
+                "last_commit": "2026-08-19T20:57:27Z",
                 "owner": "cmangos",
                 "repo": "mangos-wotlk",
                 "stars": 554
@@ -493,7 +493,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:47:49.918Z",
+    "last_updated": "2026-08-20T09:27:04.204Z",
     "original_repository": "fishiatee/awesome-privateserver",
     "original_repository_id": 1131549899,
     "original_repository_sha": "dc37f6c7ac45bd23a97423f9fb0f02c0cf159e44",
