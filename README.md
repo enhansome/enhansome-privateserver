@@ -4,7 +4,7 @@
 
 A non-exhaustive list of free custom server backend implementations for various online games that can be [self-hosted](https://en.wikipedia.org/wiki/Self-hosting_\(network\)).
 
-This list is partially inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 314,622 | 🐛 0 | 📅 2026-08-22, go check them out for cool self-hosted goodies!
+This list is partially inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 314,662 | 🐛 0 | 📅 2026-08-22, go check them out for cool self-hosted goodies!
 
 Contributions are always appreciated, check the [Contributing](#contributing) section for more details!
 
@@ -97,8 +97,8 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by Hypergryph. Published by Hypergryph in China, Ariel in Taiwan, Hong Kong and Macau, and Gryphline worldwide.
 
-* 🟥 [S](https://git.xeondev.com/LR/S) `Zig/AGPL-3.0`
 * 🟩 [perlica-rs](https://github.com/Yoshk4e/perlica-rs) ⭐ 50 | 🐛 0 | 🌐 Rust | 📅 2026-08-19 `Rust/AGPL-3.0`
+* 🟥 [S](https://git.xeondev.com/LR/S) `Zig/AGPL-3.0`
 
 ***
 
@@ -126,8 +126,8 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by Nexon Games/MX Studio. Published by Yostar in China and Japan, and Nexon worldwide.
 
-* 🟥 [Atrahasis (archived)](https://archive.org/details/Atrahasis) `C#/ARR`
 * 🟥 [BaPs](https://github.com/gucooing/BaPs) ⚠️ Archived `Go/ARR`
+* 🟥 [Atrahasis (archived)](https://archive.org/details/Atrahasis) `C#/ARR`
 
 ***
 
@@ -136,7 +136,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Westwood Studios (now Electronic Arts).
 
-* 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,272 | 🐛 1,591 | 🌐 C# | 📅 2026-08-23 `C#/GPL-3.0`
+* 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,273 | 🐛 1,592 | 🌐 C# | 📅 2026-08-23 `C#/GPL-3.0`
 
 ***
 
@@ -174,7 +174,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by miHoYo. Published by miHoYo in China and HoYoverse worldwide.
 
-* 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) ⭐ 16,804 | 🐛 152 | 🌐 Java | 📅 2026-03-04 `Java/AGPL-3.0`
+* 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) ⭐ 16,805 | 🐛 152 | 🌐 Java | 📅 2026-03-04 `Java/AGPL-3.0`
   * 🟩 [AGS-GC](https://github.com/Anime-Game-Servers/AGS-GC) ⭐ 175 | 🐛 37 | 🌐 Java | 📅 2026-05-28
   * 🟥 [LunaGC](https://github.com/pmagixc/LunaGC)
 * 🟩 [KazusaGI\_cb2](https://github.com/Hiro420/KazusaGI_cb2) ⭐ 16 | 🐛 0 | 🌐 C# | 📅 2026-02-07 `C#/MIT`
@@ -232,7 +232,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Mojang Studios.
 
-* 🟩 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) ⭐ 10,883 | 🐛 282 | 🌐 Rust | 📅 2026-08-24 `Rust/MIT`
+* 🟩 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) ⭐ 10,889 | 🐛 281 | 🌐 Rust | 📅 2026-08-24 `Rust/MIT`
 * 🟩 [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) ⚠️ Archived `PHP/LGPL-3.0`
 * 🟩 [FerrumC](https://github.com/ferrumc-rs/ferrumc) ⭐ 2,384 | 🐛 26 | 🌐 Rust | 📅 2026-08-14 `Rust/MIT`
 
@@ -243,7 +243,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by Applibot. Published by Square Enix. This game had reached End of Service since April 2024.
 
-* 🟩 [Lunar Tear](https://github.com/Walter-Sparrow/lunar-tear) ⭐ 1,044 | 🐛 1 | 🌐 Go | 📅 2026-05-28 `Go/MIT`
+* 🟩 [Lunar Tear](https://github.com/Walter-Sparrow/lunar-tear) ⭐ 1,043 | 🐛 1 | 🌐 Go | 📅 2026-05-28 `Go/MIT`
 
 ***
 
@@ -295,7 +295,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Bluepoch.
 
 * 🟥 [sonetto-rs](https://github.com/Yoshk4e/sonetto-rs) ⚠️ Archived `Rust/ARR`
-* 🟩 [enigma](https://github.com/yoncodes/enigma) ⭐ 14 | 🐛 15 | 🌐 Rust | 📅 2026-08-23 `Rust`
+* 🟩 [enigma](https://github.com/yoncodes/enigma) ⭐ 14 | 🐛 16 | 🌐 Rust | 📅 2026-08-23 `Rust`
 
 ***
 
@@ -304,7 +304,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Amazing Seasun Games.
 
-* 🟩 [MikuSB](https://github.com/MikuLeaks/MikuSB) ⭐ 647 | 🐛 28 | 🌐 C# | 📅 2026-08-23 `C#/MIT`
+* 🟩 [MikuSB](https://github.com/MikuLeaks/MikuSB) ⭐ 651 | 🐛 28 | 🌐 C# | 📅 2026-08-23 `C#/MIT`
 
 ***
 
@@ -350,8 +350,8 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Blizzard Entertainment.
 
-* 🟩 [TrinityCore](https://github.com/TrinityCore/TrinityCore) ⭐ 10,741 | 🐛 1,534 | 🌐 C++ | 📅 2026-08-23 `C++/GPL-2.0`
-* 🟩 [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) ⭐ 8,821 | 🐛 2,482 | 🌐 C++ | 📅 2026-08-23 `C++/GPL-2.0`
+* 🟩 [TrinityCore](https://github.com/TrinityCore/TrinityCore) ⭐ 10,742 | 🐛 1,534 | 🌐 C++ | 📅 2026-08-23 `C++/GPL-2.0`
+* 🟩 [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) ⭐ 8,821 | 🐛 2,484 | 🌐 C++ | 📅 2026-08-23 `C++/GPL-2.0`
 * 🟩 [C-MaNGOS](https://github.com/cmangos/mangos-wotlk) ⭐ 554 | 🐛 75 | 🌐 C++ | 📅 2026-08-24 `C++/GPL-2.0` (WotLK branch)
 
 ***
@@ -372,7 +372,7 @@ If one or more projects hold enough significance to warrant their addition, they
 
 When adding entries, you should reference how existing ones are written to ensure consistency and accuracy.
 
-If you have any questions, feel free to [create an issue](https://github.com/fishiatee/awesome-privateserver/issues/new) ⭐ 135 | 🐛 2 | 📅 2026-08-15. If you have anything neat to add to the list, [open a pull request](https://github.com/fishiatee/awesome-privateserver/compare) ⭐ 135 | 🐛 2 | 📅 2026-08-15!
+If you have any questions, feel free to [create an issue](https://github.com/fishiatee/awesome-privateserver/issues/new) ⭐ 137 | 🐛 3 | 📅 2026-08-15. If you have anything neat to add to the list, [open a pull request](https://github.com/fishiatee/awesome-privateserver/compare) ⭐ 137 | 🐛 3 | 📅 2026-08-15!
 
 ***
 

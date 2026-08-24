@@ -7,6 +7,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🟩 Impostor",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 297163997,
+                "language": "C#",
+                "last_commit": "2026-08-19T20:01:40Z",
+                "owner": "Impostor",
+                "repo": "Impostor",
+                "stars": 2360
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Innersloth.",
+          "node_type": "group",
+          "title": "Among Us (2018)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟩 Arcaea-server",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 294647403,
+                "language": "Python",
+                "last_commit": "2026-07-31T17:15:56Z",
+                "owner": "Lost-MSth",
+                "repo": "Arcaea-server",
+                "stars": 474
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Lowiro.",
+          "node_type": "group",
+          "title": "Arcaea (2017)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "🟥 OpenDoctoratePy",
               "description": null,
               "children": [],
@@ -39,6 +83,94 @@
           "description": "[!NOTE] Developed by Hypergryph. Published by Hypergryph in China, Gryphline in Taiwan, and Yostar worldwide.",
           "node_type": "group",
           "title": "Arknights (2019)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟩 perlica-rs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1164769782,
+                "language": "Rust",
+                "last_commit": "2026-08-19T20:20:26Z",
+                "owner": "Yoshk4e",
+                "repo": "perlica-rs",
+                "stars": 50
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed by Hypergryph. Published by Hypergryph in China, Ariel in Taiwan, Hong Kong and Macau, and Gryphline worldwide.",
+          "node_type": "group",
+          "title": "Arknights: Endfield (2026)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟥 Belfast",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 785433987,
+                "language": "Go",
+                "last_commit": "2026-05-10T17:45:04Z",
+                "owner": "ggmolly",
+                "repo": "belfast",
+                "stars": 116
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide.",
+          "node_type": "group",
+          "title": "Azur Lane (2017)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟥 BaPs",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 906881205,
+                "language": "Go",
+                "last_commit": "2025-07-11T15:11:27Z",
+                "owner": "gucooing",
+                "repo": "BaPs",
+                "stars": 109
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed by Nexon Games/MX Studio. Published by Yostar in China and Japan, and Nexon worldwide.",
+          "node_type": "group",
+          "title": "Blue Archive (2021)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟩 OpenRA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 959908,
+                "language": "C#",
+                "last_commit": "2026-08-23T20:58:22Z",
+                "owner": "OpenRA",
+                "repo": "OpenRA",
+                "stars": 17273
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Westwood Studios (now Electronic Arts).",
+          "node_type": "group",
+          "title": "Command & Conquer: Red Alert (1996)"
         },
         {
           "children": [
@@ -81,6 +213,66 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🟥 Single Player Tarkov",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🟩 C# Rewrite",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 911788298,
+                    "language": "C#",
+                    "last_commit": "2026-08-09T23:01:38Z",
+                    "owner": "sp-tarkov",
+                    "repo": "server-csharp",
+                    "stars": 88
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": true,
+                "id": 892787389,
+                "language": "TypeScript",
+                "last_commit": "2026-08-09T22:59:07Z",
+                "owner": "sp-tarkov",
+                "repo": "server",
+                "stars": 133
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Battlestate Games.",
+          "node_type": "group",
+          "title": "Escape from Tarkov (2025)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟩 EpinelPS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 820512352,
+                "language": "C#",
+                "last_commit": "2026-08-20T17:20:55Z",
+                "owner": "EpinelPS",
+                "repo": "EpinelPS",
+                "stars": 541
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed by Shift Up. Published by Level Infinite.",
+          "node_type": "group",
+          "title": "Goddess of Victory: Nikke (2022)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "🟥 Grasscutter",
               "description": null,
               "children": [
@@ -107,7 +299,7 @@
                 "last_commit": "2026-03-04T02:54:53Z",
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16804
+                "stars": 16805
               }
             },
             {
@@ -144,6 +336,50 @@
           "description": "[!NOTE] Developed by miHoYo. Published by miHoYo in China and HoYoverse worldwide.",
           "node_type": "group",
           "title": "Genshin Impact (2020)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟩 NTRSimulator",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1276048790,
+                "language": "C#",
+                "last_commit": "2026-06-27T05:30:17Z",
+                "owner": "raphaeIl",
+                "repo": "NTRSimulator",
+                "stars": 32
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed by MICA Team. Published by Darkwinter in China, North America, Australasia and Ireland, HaoPlay in the European Union, United Kingdom, Japan, South Korea and Taiwan, and THS Game in Vietnam.",
+          "node_type": "group",
+          "title": "Girls' Frontline 2: Exilium (2023)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟥 KianaBH3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 884870565,
+                "language": "C#",
+                "last_commit": "2025-11-07T15:35:37Z",
+                "owner": "MikuLeaks",
+                "repo": "KianaBH3",
+                "stars": 128
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed by miHoYo. Published by miHoYo in China, Nijigen Games in Taiwan, Hong Kong and Macau, Funtap in Vietnam, and HoYoverse worldwide.",
+          "node_type": "group",
+          "title": "Honkai Impact 3rd (2016)"
         },
         {
           "children": [
@@ -231,6 +467,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🟩 OpenLethe",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1306928510,
+                "language": "C#",
+                "last_commit": "2026-08-19T04:48:29Z",
+                "owner": "LEAGUE-OF-NINE",
+                "repo": "OpenLethe",
+                "stars": 5
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Project Moon.",
+          "node_type": "group",
+          "title": "Limbus Company (2023)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "🟩 Pumpkin",
               "description": null,
               "children": [],
@@ -238,10 +496,10 @@
                 "archived": false,
                 "id": 834966974,
                 "language": "Rust",
-                "last_commit": "2026-08-24T07:37:01Z",
+                "last_commit": "2026-08-24T14:25:35Z",
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 10883
+                "stars": 10889
               }
             },
             {
@@ -256,7 +514,7 @@
                 "last_commit": "2026-07-09T11:31:21Z",
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3576
+                "stars": 3575
               }
             },
             {
@@ -278,6 +536,28 @@
           "description": "[!NOTE] Developed and published by Mojang Studios.",
           "node_type": "group",
           "title": "Minecraft (2009)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟩 Lunar Tear",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1178802410,
+                "language": "Go",
+                "last_commit": "2026-05-28T07:51:34Z",
+                "owner": "Walter-Sparrow",
+                "repo": "lunar-tear",
+                "stars": 1043
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed by Applibot. Published by Square Enix. This game had reached End of Service since April 2024.",
+          "node_type": "group",
+          "title": "NieR Re[in]carnation (2021)"
         },
         {
           "children": [
@@ -321,7 +601,7 @@
                 "archived": false,
                 "id": 659408796,
                 "language": "Go",
-                "last_commit": "2026-08-24T08:07:41Z",
+                "last_commit": "2026-08-24T13:45:59Z",
                 "owner": "osuTitanic",
                 "repo": "titanic",
                 "stars": 57
@@ -403,6 +683,66 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🟥 AscNet",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🟥 Lucia",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1102673538,
+                    "language": "C#",
+                    "last_commit": "2025-11-24T00:50:29Z",
+                    "owner": "yoncodes",
+                    "repo": "Lucia",
+                    "stars": 9
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 735448621,
+                "language": "C#",
+                "last_commit": "2026-04-04T13:11:13Z",
+                "owner": "rafi1212122",
+                "repo": "AscNet",
+                "stars": 86
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Kuro Games.",
+          "node_type": "group",
+          "title": "Punishing: Gray Raven (2019)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟩 rAthena",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11489037,
+                "language": "C++",
+                "last_commit": "2026-08-21T17:10:08Z",
+                "owner": "rathena",
+                "repo": "rathena",
+                "stars": 3536
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Gravity.",
+          "node_type": "group",
+          "title": "Ragnarok Online (2002)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "🟥 sonetto-rs",
               "description": null,
               "children": [],
@@ -440,6 +780,101 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🟩 MikuSB",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1215604687,
+                "language": "C#",
+                "last_commit": "2026-08-23T10:37:34Z",
+                "owner": "MikuLeaks",
+                "repo": "MikuSB",
+                "stars": 651
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Amazing Seasun Games.",
+          "node_type": "group",
+          "title": "Snowbreak: Containment Zone (2023)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟩 Nebula",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1084120095,
+                "language": "Java",
+                "last_commit": "2026-08-18T11:24:02Z",
+                "owner": "Melledy",
+                "repo": "Nebula",
+                "stars": 124
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Yostar.",
+          "node_type": "group",
+          "title": "Stella Sora (2025)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "group",
+              "title": "🟥 Yoshunko",
+              "description": null,
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🟩 Remielle",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1255453667,
+                    "language": "Zig",
+                    "last_commit": "2026-08-04T22:42:45Z",
+                    "owner": "thexeondev",
+                    "repo": "remielle",
+                    "stars": 32
+                  }
+                }
+              ]
+            }
+          ],
+          "description": "[!NOTE] Developed by miHoYo. Published by miHoYo in China and HoYoverse worldwide.",
+          "node_type": "group",
+          "title": "Zenless Zone Zero (2024)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "🟥 Starpoint",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 814032481,
+                "language": "TypeScript",
+                "last_commit": "2025-04-01T19:28:19Z",
+                "owner": "duosii",
+                "repo": "starpoint",
+                "stars": 284
+              }
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Cygames. This game had reached End of Service since July 2024.",
+          "node_type": "group",
+          "title": "World Flipper (2019)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "🟩 TrinityCore",
               "description": null,
               "children": [],
@@ -450,7 +885,7 @@
                 "last_commit": "2026-08-23T20:57:50Z",
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10741
+                "stars": 10742
               }
             },
             {
@@ -493,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T09:39:59.095Z",
+    "last_updated": "2026-08-24T14:37:40.390Z",
     "original_repository": "fishiatee/awesome-privateserver",
     "original_repository_id": 1131549899,
     "original_repository_sha": "dc37f6c7ac45bd23a97423f9fb0f02c0cf159e44",
