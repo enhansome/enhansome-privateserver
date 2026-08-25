@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-19T20:01:40Z",
                 "owner": "Impostor",
                 "repo": "Impostor",
-                "stars": 2360
+                "stars": 2362
               }
             }
           ],
@@ -161,10 +161,10 @@
                 "archived": false,
                 "id": 959908,
                 "language": "C#",
-                "last_commit": "2026-08-23T20:58:22Z",
+                "last_commit": "2026-08-24T17:06:44Z",
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17273
+                "stars": 17279
               }
             }
           ],
@@ -261,7 +261,7 @@
                 "last_commit": "2026-08-20T17:20:55Z",
                 "owner": "EpinelPS",
                 "repo": "EpinelPS",
-                "stars": 541
+                "stars": 542
               }
             }
           ],
@@ -299,7 +299,7 @@
                 "last_commit": "2026-03-04T02:54:53Z",
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16805
+                "stars": 16806
               }
             },
             {
@@ -348,7 +348,7 @@
                 "archived": false,
                 "id": 1276048790,
                 "language": "C#",
-                "last_commit": "2026-06-27T05:30:17Z",
+                "last_commit": "2026-08-25T05:20:31Z",
                 "owner": "raphaeIl",
                 "repo": "NTRSimulator",
                 "stars": 32
@@ -496,10 +496,10 @@
                 "archived": false,
                 "id": 834966974,
                 "language": "Rust",
-                "last_commit": "2026-08-24T14:25:35Z",
+                "last_commit": "2026-08-25T06:16:28Z",
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 10889
+                "stars": 10897
               }
             },
             {
@@ -529,7 +529,7 @@
                 "last_commit": "2026-08-14T15:03:31Z",
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2384
+                "stars": 2386
               }
             }
           ],
@@ -765,7 +765,7 @@
                 "archived": false,
                 "id": 1305659266,
                 "language": "Rust",
-                "last_commit": "2026-08-23T11:41:56Z",
+                "last_commit": "2026-08-25T05:44:28Z",
                 "owner": "yoncodes",
                 "repo": "enigma",
                 "stars": 14
@@ -790,7 +790,7 @@
                 "last_commit": "2026-08-23T10:37:34Z",
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
-                "stars": 651
+                "stars": 655
               }
             }
           ],
@@ -885,7 +885,7 @@
                 "last_commit": "2026-08-23T20:57:50Z",
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10742
+                "stars": 10744
               }
             },
             {
@@ -897,10 +897,10 @@
                 "archived": false,
                 "id": 61980658,
                 "language": "C++",
-                "last_commit": "2026-08-23T08:24:54Z",
+                "last_commit": "2026-08-24T23:21:44Z",
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8821
+                "stars": 8823
               }
             },
             {
@@ -912,7 +912,7 @@
                 "archived": false,
                 "id": 5559277,
                 "language": "C++",
-                "last_commit": "2026-08-24T09:16:14Z",
+                "last_commit": "2026-08-24T15:10:43Z",
                 "owner": "cmangos",
                 "repo": "mangos-wotlk",
                 "stars": 554
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:37:40.390Z",
+    "last_updated": "2026-08-25T06:32:41.899Z",
     "original_repository": "fishiatee/awesome-privateserver",
     "original_repository_id": 1131549899,
     "original_repository_sha": "dc37f6c7ac45bd23a97423f9fb0f02c0cf159e44",
