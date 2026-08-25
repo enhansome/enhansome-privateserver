@@ -4,7 +4,7 @@
 
 A non-exhaustive list of free custom server backend implementations for various online games that can be [self-hosted](https://en.wikipedia.org/wiki/Self-hosting_\(network\)).
 
-This list is partially inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 314,870 | 🐛 0 | 📅 2026-08-22, go check them out for cool self-hosted goodies!
+This list is partially inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 314,906 | 🐛 0 | 📅 2026-08-22, go check them out for cool self-hosted goodies!
 
 Contributions are always appreciated, check the [Contributing](#contributing) section for more details!
 
@@ -136,7 +136,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Westwood Studios (now Electronic Arts).
 
-* 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,279 | 🐛 1,593 | 🌐 C# | 📅 2026-08-24 `C#/GPL-3.0`
+* 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,278 | 🐛 1,593 | 🌐 C# | 📅 2026-08-24 `C#/GPL-3.0`
 
 ***
 
@@ -232,7 +232,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Mojang Studios.
 
-* 🟩 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) ⭐ 10,897 | 🐛 283 | 🌐 Rust | 📅 2026-08-25 `Rust/MIT`
+* 🟩 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) ⭐ 10,900 | 🐛 280 | 🌐 Rust | 📅 2026-08-25 `Rust/MIT`
 * 🟩 [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) ⚠️ Archived `PHP/LGPL-3.0`
 * 🟩 [FerrumC](https://github.com/ferrumc-rs/ferrumc) ⭐ 2,386 | 🐛 26 | 🌐 Rust | 📅 2026-08-14 `Rust/MIT`
 
@@ -304,7 +304,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Amazing Seasun Games.
 
-* 🟩 [MikuSB](https://github.com/MikuLeaks/MikuSB) ⭐ 655 | 🐛 28 | 🌐 C# | 📅 2026-08-23 `C#/MIT`
+* 🟩 [MikuSB](https://github.com/MikuLeaks/MikuSB) ⭐ 656 | 🐛 28 | 🌐 C# | 📅 2026-08-23 `C#/MIT`
 
 ***
 

@@ -164,7 +164,7 @@
                 "last_commit": "2026-08-24T17:06:44Z",
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17279
+                "stars": 17278
               }
             }
           ],
@@ -496,10 +496,10 @@
                 "archived": false,
                 "id": 834966974,
                 "language": "Rust",
-                "last_commit": "2026-08-25T06:16:28Z",
+                "last_commit": "2026-08-25T08:26:45Z",
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 10897
+                "stars": 10900
               }
             },
             {
@@ -790,7 +790,7 @@
                 "last_commit": "2026-08-23T10:37:34Z",
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
-                "stars": 655
+                "stars": 656
               }
             }
           ],
@@ -928,7 +928,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:32:41.899Z",
+    "last_updated": "2026-08-25T09:28:33.412Z",
     "original_repository": "fishiatee/awesome-privateserver",
     "original_repository_id": 1131549899,
     "original_repository_sha": "dc37f6c7ac45bd23a97423f9fb0f02c0cf159e44",
