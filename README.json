@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-26T18:56:06Z",
                 "owner": "Impostor",
                 "repo": "Impostor",
-                "stars": 2362
+                "stars": 2363
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-08-08T05:27:32Z",
                 "owner": "Moli13337",
                 "repo": "Arcaea-6.15.0c",
-                "stars": 546
+                "stars": 547
               }
             },
             {
@@ -51,10 +51,10 @@
                 "archived": false,
                 "id": 294647403,
                 "language": "Python",
-                "last_commit": "2026-07-31T17:15:56Z",
+                "last_commit": "2026-08-27T15:17:18Z",
                 "owner": "Lost-MSth",
                 "repo": "Arcaea-server",
-                "stars": 474
+                "stars": 476
               }
             }
           ],
@@ -88,7 +88,7 @@
                 "archived": false,
                 "id": 1141503918,
                 "language": "Python",
-                "last_commit": "2026-08-18T09:17:23Z",
+                "last_commit": "2026-08-27T19:17:37Z",
                 "owner": "pfyy",
                 "repo": "OpenBachelorS",
                 "stars": 24
@@ -209,7 +209,7 @@
                 "last_commit": "2026-08-26T11:59:17Z",
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17289
+                "stars": 17290
               }
             }
           ],
@@ -250,7 +250,7 @@
                 "archived": false,
                 "id": 535067147,
                 "language": "C#",
-                "last_commit": "2026-08-12T08:02:23Z",
+                "last_commit": "2026-08-27T18:51:02Z",
                 "owner": "SapiensAnatis",
                 "repo": "Dawnshard",
                 "stars": 149
@@ -366,7 +366,7 @@
                 "last_commit": "2026-03-04T02:54:53Z",
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16809
+                "stars": 16810
               }
             },
             {
@@ -607,10 +607,10 @@
                 "archived": false,
                 "id": 834966974,
                 "language": "Rust",
-                "last_commit": "2026-08-27T11:30:04Z",
+                "last_commit": "2026-08-27T17:28:01Z",
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 10955
+                "stars": 10961
               }
             },
             {
@@ -625,7 +625,7 @@
                 "last_commit": "2026-07-09T11:31:21Z",
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3576
+                "stars": 3575
               }
             },
             {
@@ -640,7 +640,7 @@
                 "last_commit": "2026-08-14T15:03:31Z",
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2390
+                "stars": 2389
               }
             }
           ],
@@ -883,7 +883,7 @@
                 "archived": false,
                 "id": 1215604687,
                 "language": "C#",
-                "last_commit": "2026-08-23T10:37:34Z",
+                "last_commit": "2026-08-27T12:45:10Z",
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
                 "stars": 662
@@ -978,7 +978,7 @@
                 "archived": false,
                 "id": 1204412,
                 "language": "C++",
-                "last_commit": "2026-08-26T17:51:24Z",
+                "last_commit": "2026-08-27T19:10:22Z",
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
                 "stars": 10747
@@ -993,10 +993,10 @@
                 "archived": false,
                 "id": 61980658,
                 "language": "C++",
-                "last_commit": "2026-08-27T10:20:46Z",
+                "last_commit": "2026-08-27T17:09:02Z",
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8839
+                "stars": 8841
               }
             },
             {
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:06.194Z",
+    "last_updated": "2026-08-27T19:22:06.025Z",
     "original_repository_info": {
       "archived": false,
       "id": 1131549899,
