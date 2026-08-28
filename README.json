@@ -18,7 +18,8 @@
                 "owner": "Impostor",
                 "repo": "Impostor",
                 "stars": 2363
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Innersloth.",
@@ -39,8 +40,9 @@
                 "last_commit": "2026-08-08T05:27:32Z",
                 "owner": "Moli13337",
                 "repo": "Arcaea-6.15.0c",
-                "stars": 547
-              }
+                "stars": 549
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "Lost-MSth",
                 "repo": "Arcaea-server",
                 "stars": 476
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Lowiro.",
@@ -77,7 +80,8 @@
                 "owner": "jiellll1219",
                 "repo": "OpenDoctoratePy-EX-Public",
                 "stars": 173
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -92,7 +96,8 @@
                 "owner": "pfyy",
                 "repo": "OpenBachelorS",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by Hypergryph. Published by Hypergryph in China, Gryphline in Taiwan, and Yostar worldwide.",
@@ -114,7 +119,8 @@
                 "owner": "Yoshk4e",
                 "repo": "perlica-rs",
                 "stars": 52
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by Hypergryph. Published by Hypergryph in China, Ariel in Taiwan, Hong Kong and Macau, and Gryphline worldwide.",
@@ -135,8 +141,9 @@
                 "last_commit": "2026-06-24T12:01:52Z",
                 "owner": "Moli13337",
                 "repo": "Azurlane-9.7.205",
-                "stars": 265
-              }
+                "stars": 266
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -151,7 +158,8 @@
                 "owner": "ggmolly",
                 "repo": "belfast",
                 "stars": 116
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -166,7 +174,8 @@
                 "owner": "Irminsul-dev",
                 "repo": "CheshireLane9",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide.",
@@ -188,7 +197,8 @@
                 "owner": "gucooing",
                 "repo": "BaPs",
                 "stars": 109
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by Nexon Games/MX Studio. Published by Yostar in China and Japan, and Nexon worldwide.",
@@ -209,8 +219,9 @@
                 "last_commit": "2026-08-26T11:59:17Z",
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17290
-              }
+                "stars": 17289
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Westwood Studios (now Electronic Arts).",
@@ -231,8 +242,9 @@
                 "last_commit": "2026-08-24T18:39:10Z",
                 "owner": "MadlyMoe",
                 "repo": "RevivalSide",
-                "stars": 107
-              }
+                "stars": 110
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Studiobside. This game had reached End of Service since August 2026.",
@@ -254,7 +266,8 @@
                 "owner": "SapiensAnatis",
                 "repo": "Dawnshard",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -269,7 +282,8 @@
                 "owner": "CerisWhite",
                 "repo": "Orchis",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by Cygames. Published by Nintendo. This game had reached End of Service since November 2022.",
@@ -296,7 +310,8 @@
                     "owner": "sp-tarkov",
                     "repo": "server-csharp",
                     "stars": 88
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:35:11.369Z"
                 }
               ],
               "repo_info": {
@@ -307,7 +322,8 @@
                 "owner": "sp-tarkov",
                 "repo": "server",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Battlestate Games.",
@@ -328,8 +344,9 @@
                 "last_commit": "2026-08-20T17:20:55Z",
                 "owner": "EpinelPS",
                 "repo": "EpinelPS",
-                "stars": 543
-              }
+                "stars": 544
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by Shift Up. Published by Level Infinite.",
@@ -356,7 +373,8 @@
                     "owner": "Anime-Game-Servers",
                     "repo": "AGS-GC",
                     "stars": 175
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:35:11.369Z"
                 }
               ],
               "repo_info": {
@@ -367,7 +385,8 @@
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
                 "stars": 16810
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -378,11 +397,12 @@
                 "archived": false,
                 "id": 926255655,
                 "language": "C#",
-                "last_commit": "2026-02-07T05:20:44Z",
+                "last_commit": "2026-08-28T06:19:57Z",
                 "owner": "Hiro420",
                 "repo": "KazusaGI_cb2",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -397,7 +417,8 @@
                 "owner": "Kei-Luna",
                 "repo": "hk4e-go",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by miHoYo. Published by miHoYo in China and HoYoverse worldwide.",
@@ -418,8 +439,9 @@
                 "last_commit": "2026-08-26T16:24:26Z",
                 "owner": "raphaeIl",
                 "repo": "NTRSimulator",
-                "stars": 32
-              }
+                "stars": 33
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by MICA Team. Published by Darkwinter in China, North America, Australasia and Ireland, HaoPlay in the European Union, United Kingdom, Japan, South Korea and Taiwan, and THS Game in Vietnam.",
@@ -441,7 +463,8 @@
                 "owner": "MikuLeaks",
                 "repo": "KianaBH3",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by miHoYo. Published by miHoYo in China, Nijigen Games in Taiwan, Hong Kong and Macau, Funtap in Vietnam, and HoYoverse worldwide.",
@@ -462,8 +485,9 @@
                 "last_commit": "2026-05-27T03:57:43Z",
                 "owner": "Melledy",
                 "repo": "LunarCore",
-                "stars": 1424
-              }
+                "stars": 1423
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -478,7 +502,8 @@
                 "owner": "Hiro420",
                 "repo": "KazusaHSR_0.56",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -493,7 +518,8 @@
                 "owner": "Mar7thLover",
                 "repo": "HyacineDH-Core",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -508,7 +534,8 @@
                 "owner": "Mar7thLover",
                 "repo": "March7thHoney-OpenSource",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -523,7 +550,8 @@
                 "owner": "Mar7thLover",
                 "repo": "HyacineDH-3.8",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by miHoYo. Published by miHoYo in China, Nijigen Games in Taiwan, Hong Kong and Macau, 3T Online in Vietnam, and HoYoverse worldwide.",
@@ -545,7 +573,8 @@
                 "owner": "LEAGUE-OF-NINE",
                 "repo": "OpenLethe",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Project Moon.",
@@ -567,7 +596,8 @@
                 "owner": "ethanaobrien",
                 "repo": "ew",
                 "stars": 7
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by GREE and published by Bushiroad. Reached End of Service since May 2024.",
@@ -588,8 +618,9 @@
                 "last_commit": "2026-07-04T09:11:20Z",
                 "owner": "Moli13337",
                 "repo": "MahjongSoul-4.0.26",
-                "stars": 103
-              }
+                "stars": 104
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by Cat Food Studio and published by Cat Food Studio(CN)/Yostar(Global).",
@@ -607,11 +638,12 @@
                 "archived": false,
                 "id": 834966974,
                 "language": "Rust",
-                "last_commit": "2026-08-27T17:28:01Z",
+                "last_commit": "2026-08-28T20:32:53Z",
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 10961
-              }
+                "stars": 10975
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -625,8 +657,9 @@
                 "last_commit": "2026-07-09T11:31:21Z",
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3575
-              }
+                "stars": 3576
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -640,8 +673,9 @@
                 "last_commit": "2026-08-14T15:03:31Z",
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2389
-              }
+                "stars": 2390
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Mojang Studios.",
@@ -663,7 +697,8 @@
                 "owner": "Walter-Sparrow",
                 "repo": "lunar-tear",
                 "stars": 1044
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by Applibot. Published by Square Enix. This game had reached End of Service since April 2024.",
@@ -690,7 +725,8 @@
                     "owner": "osu-NoLimits",
                     "repo": "bancho.py-ex",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:35:11.369Z"
                 }
               ],
               "repo_info": {
@@ -701,7 +737,8 @@
                 "owner": "osuAkatsuki",
                 "repo": "bancho.py",
                 "stars": 286
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -712,11 +749,12 @@
                 "archived": false,
                 "id": 659408796,
                 "language": "Go",
-                "last_commit": "2026-08-26T19:43:48Z",
+                "last_commit": "2026-08-28T10:54:46Z",
                 "owner": "osuTitanic",
                 "repo": "titanic",
-                "stars": 57
-              }
+                "stars": 58
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -731,7 +769,8 @@
                 "owner": "SunriseCommunity",
                 "repo": "Sunrise",
                 "stars": 50
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -746,7 +785,8 @@
                 "owner": "GooGuTeam",
                 "repo": "g0v0-server",
                 "stars": 38
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by ppy and the osu! development team.",
@@ -764,11 +804,12 @@
                 "archived": false,
                 "id": 1090409761,
                 "language": "JavaScript",
-                "last_commit": "2026-07-29T09:37:45Z",
+                "last_commit": "2026-08-28T09:58:00Z",
                 "owner": "BanterSR",
                 "repo": "Lolo",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -783,7 +824,8 @@
                 "owner": "byzp",
                 "repo": "of-ps",
                 "stars": 11
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by INUTAN Limited.",
@@ -810,7 +852,8 @@
                     "owner": "yoncodes",
                     "repo": "Lucia",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:35:11.369Z"
                 }
               ],
               "repo_info": {
@@ -821,7 +864,8 @@
                 "owner": "rafi1212122",
                 "repo": "AscNet",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Kuro Games.",
@@ -843,7 +887,8 @@
                 "owner": "rathena",
                 "repo": "rathena",
                 "stars": 3537
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Gravity.",
@@ -865,7 +910,8 @@
                 "owner": "Yoshk4e",
                 "repo": "sonetto-rs",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Bluepoch.",
@@ -887,7 +933,8 @@
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
                 "stars": 662
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Amazing Seasun Games.",
@@ -909,7 +956,8 @@
                 "owner": "Melledy",
                 "repo": "Nebula",
                 "stars": 124
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Yostar.",
@@ -936,7 +984,8 @@
                     "owner": "thexeondev",
                     "repo": "remielle",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:35:11.369Z"
                 }
               ]
             }
@@ -960,7 +1009,8 @@
                 "owner": "duosii",
                 "repo": "starpoint",
                 "stars": 285
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Cygames. This game had reached End of Service since July 2024.",
@@ -978,11 +1028,12 @@
                 "archived": false,
                 "id": 1204412,
                 "language": "C++",
-                "last_commit": "2026-08-27T19:10:22Z",
+                "last_commit": "2026-08-28T19:17:33Z",
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
                 "stars": 10747
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -993,11 +1044,12 @@
                 "archived": false,
                 "id": 61980658,
                 "language": "C++",
-                "last_commit": "2026-08-27T17:09:02Z",
+                "last_commit": "2026-08-28T08:24:06Z",
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8841
-              }
+                "stars": 8845
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             },
             {
               "node_type": "item",
@@ -1008,11 +1060,12 @@
                 "archived": false,
                 "id": 5559277,
                 "language": "C++",
-                "last_commit": "2026-08-26T14:46:19Z",
+                "last_commit": "2026-08-28T18:21:34Z",
                 "owner": "cmangos",
                 "repo": "mangos-wotlk",
                 "stars": 554
-              }
+              },
+              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Blizzard Entertainment.",
@@ -1024,7 +1077,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:22:06.025Z",
+    "last_updated": "2026-08-28T20:35:11.369Z",
     "original_repository_info": {
       "archived": false,
       "id": 1131549899,
@@ -1032,7 +1085,7 @@
       "last_commit": "2026-08-26T06:04:26Z",
       "owner": "fishiatee",
       "repo": "awesome-privateserver",
-      "stars": 140
+      "stars": 141
     },
     "original_repository_sha": "88764fdcb0c7b321aad30e954be869b35b8a2b44",
     "enhanced_repository": "enhansome/enhansome-privateserver",
