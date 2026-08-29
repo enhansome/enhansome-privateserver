@@ -12,12 +12,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Impostor - An open source reimplementation of the Among Us Server",
+                "homepage": null,
                 "id": 297163997,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T18:56:06Z",
+                "open_issues": 37,
                 "owner": "Impostor",
                 "repo": "Impostor",
-                "stars": 2363
+                "stars": 2363,
+                "topics": [
+                  "among-us",
+                  "private-server"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -35,12 +43,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Arcaea game private server",
+                "homepage": null,
                 "id": 1261800777,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-08T05:27:32Z",
+                "open_issues": 4,
                 "owner": "Moli13337",
                 "repo": "Arcaea-6.15.0c",
-                "stars": 549
+                "stars": 548,
+                "topics": [
+                  "arcaea",
+                  "arcaea-server",
+                  "private-server"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -51,12 +68,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "一个微型的 Arcaea 本地服务器  A small local server for Arcaea",
+                "homepage": null,
                 "id": 294647403,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-27T15:17:18Z",
+                "open_issues": 8,
                 "owner": "Lost-MSth",
                 "repo": "Arcaea-server",
-                "stars": 476
+                "stars": 477,
+                "topics": [
+                  "arcaea",
+                  "arcaea-server",
+                  "flask",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -74,12 +101,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "明日方舟本地服务端拓展版本",
+                "homepage": null,
                 "id": 762149427,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-02-20T11:51:03Z",
+                "open_issues": 1,
                 "owner": "jiellll1219",
                 "repo": "OpenDoctoratePy-EX-Public",
-                "stars": 173
+                "stars": 173,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -90,12 +122,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1141503918,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-08-27T19:17:37Z",
+                "open_issues": 0,
                 "owner": "pfyy",
                 "repo": "OpenBachelorS",
-                "stars": 24
+                "stars": 25,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -113,12 +150,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A server software reimplementation for an old version of a certain anime game about factories.",
+                "homepage": null,
                 "id": 1164769782,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-19T20:20:26Z",
+                "open_issues": 0,
                 "owner": "Yoshk4e",
                 "repo": "perlica-rs",
-                "stars": 52
+                "stars": 52,
+                "topics": [
+                  "private-server",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -136,12 +181,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AzurLane game private server.",
+                "homepage": null,
                 "id": 1255778963,
                 "language": "Kotlin",
+                "license": null,
                 "last_commit": "2026-06-24T12:01:52Z",
+                "open_issues": 0,
                 "owner": "Moli13337",
                 "repo": "Azurlane-9.7.205",
-                "stars": 266
+                "stars": 266,
+                "topics": [
+                  "azur-lane",
+                  "azurlane",
+                  "cn",
+                  "game",
+                  "private-server",
+                  "server",
+                  "shitty-code"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -152,12 +210,24 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Reimplementation of a server for Azur Lane",
+                "homepage": null,
                 "id": 785433987,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-05-10T17:45:04Z",
+                "open_issues": 9,
                 "owner": "ggmolly",
                 "repo": "belfast",
-                "stars": 116
+                "stars": 116,
+                "topics": [
+                  "azur-lane",
+                  "azurlane",
+                  "blhx",
+                  "go",
+                  "private-server",
+                  "protobuf"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -168,12 +238,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A stubbornly still-alive server emulator for an anime fleet game client v9.x.",
+                "homepage": null,
                 "id": 1292539489,
                 "language": "Rust",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-11T03:15:09Z",
+                "open_issues": 0,
                 "owner": "Irminsul-dev",
                 "repo": "CheshireLane9",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "azur-lane",
+                  "azurlane",
+                  "private-server",
+                  "rust",
+                  "yostar"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -191,12 +272,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": null,
+                "homepage": null,
                 "id": 906881205,
                 "language": "Go",
+                "license": null,
                 "last_commit": "2025-07-11T15:11:27Z",
+                "open_issues": 1,
                 "owner": "gucooing",
                 "repo": "BaPs",
-                "stars": 109
+                "stars": 109,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -214,12 +300,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.",
+                "homepage": "https://www.openra.net",
                 "id": 959908,
                 "language": "C#",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T11:59:17Z",
+                "open_issues": 1589,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17289
+                "stars": 17290,
+                "topics": [
+                  "command-and-conquer",
+                  "cross-platform",
+                  "csharp",
+                  "dotnet",
+                  "dune-2000",
+                  "engine",
+                  "game",
+                  "game-engine",
+                  "hacktoberfest",
+                  "openra",
+                  "real-time-strategy",
+                  "red-alert",
+                  "rts",
+                  "strategy-game-engine",
+                  "tiberian-dawn"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -237,12 +344,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Revival:Side is a private server implementation project for Counter:Side",
+                "homepage": null,
                 "id": 1227641422,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T18:39:10Z",
+                "open_issues": 6,
                 "owner": "MadlyMoe",
                 "repo": "RevivalSide",
-                "stars": 110
+                "stars": 112,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -260,12 +372,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server emulator for Dragalia Lost",
+                "homepage": "https://dawnshard.co.uk",
                 "id": 535067147,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T18:51:02Z",
+                "open_issues": 58,
                 "owner": "SapiensAnatis",
                 "repo": "Dawnshard",
-                "stars": 149
+                "stars": 149,
+                "topics": [
+                  "asp-net-core",
+                  "docker"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -276,12 +396,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Dragalia Lost Private Server",
+                "homepage": "https://orchis.cherrymint.live",
                 "id": 809111745,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-06-10T18:45:10Z",
+                "open_issues": 1,
                 "owner": "CerisWhite",
                 "repo": "Orchis",
-                "stars": 23
+                "stars": 24,
+                "topics": [
+                  "dragalia-lost",
+                  "express",
+                  "express-js",
+                  "nodejs",
+                  "private-server",
+                  "server-emulator"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -304,24 +436,37 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A C# rewrite of the SPT server project.",
+                    "homepage": null,
                     "id": 911788298,
                     "language": "C#",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-09T23:01:38Z",
+                    "open_issues": 51,
                     "owner": "sp-tarkov",
                     "repo": "server-csharp",
-                    "stars": 88
+                    "stars": 88,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:35:11.369Z"
                 }
               ],
               "repo_info": {
                 "archived": true,
+                "description": "The Server project for SPT",
+                "homepage": null,
                 "id": 892787389,
                 "language": "TypeScript",
+                "license": "NCSA",
                 "last_commit": "2026-08-09T22:59:07Z",
+                "open_issues": 68,
                 "owner": "sp-tarkov",
                 "repo": "server",
-                "stars": 133
+                "stars": 133,
+                "topics": [
+                  "single-player-game",
+                  "spt"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -339,12 +484,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A private server for some anime game",
+                "homepage": null,
                 "id": 820512352,
                 "language": "C#",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-20T17:20:55Z",
+                "open_issues": 19,
                 "owner": "EpinelPS",
                 "repo": "EpinelPS",
-                "stars": 544
+                "stars": 544,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -367,24 +517,39 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A server software implementation, ineroperable with a certain anime game client. The code in this repository is fully custom made for edyoucational purposes and future preservation, no copyrighted code is allowed in this repository.",
+                    "homepage": "https://animegameservers.org/",
                     "id": 515494265,
                     "language": "Java",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-05-28T20:00:00Z",
+                    "open_issues": 37,
                     "owner": "Anime-Game-Servers",
                     "repo": "AGS-GC",
-                    "stars": 175
+                    "stars": 175,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:35:11.369Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A server software reimplementation for a certain anime game.",
+                "homepage": "https://grasscutter.io/",
                 "id": 482520194,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-04T02:54:53Z",
+                "open_issues": 152,
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16810
+                "stars": 16809,
+                "topics": [
+                  "java",
+                  "kcp",
+                  "private-server",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -395,12 +560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server sofware reimplementation for an old version of a certain anime game",
+                "homepage": null,
                 "id": 926255655,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-28T06:19:57Z",
+                "open_issues": 0,
                 "owner": "Hiro420",
                 "repo": "KazusaGI_cb2",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -411,12 +581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "世҉̰̗͕́͢͡界҈̧̟͙̖̎̎̕遗҈͚̄̓̍̕͜忘҈̢͕̙̪̄͞我҉̛̰̯̊͢",
+                "homepage": null,
                 "id": 755510738,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2023-12-12T14:26:16Z",
+                "open_issues": 0,
                 "owner": "Kei-Luna",
                 "repo": "hk4e-go",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -434,12 +609,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server Emulator for a certain NTR game",
+                "homepage": null,
                 "id": 1276048790,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-08-26T16:24:26Z",
+                "open_issues": 1,
                 "owner": "raphaeIl",
                 "repo": "NTRSimulator",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -457,12 +637,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 884870565,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2025-11-07T15:35:37Z",
+                "open_issues": 1,
                 "owner": "MikuLeaks",
                 "repo": "KianaBH3",
-                "stars": 128
+                "stars": 128,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -480,12 +665,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A game server reimplementation for a certain turn-based anime game",
+                "homepage": null,
                 "id": 703022577,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-27T03:57:43Z",
+                "open_issues": 27,
                 "owner": "Melledy",
                 "repo": "LunarCore",
-                "stars": 1423
+                "stars": 1423,
+                "topics": [
+                  "game-server"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -496,12 +688,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source server reimplementation for an early version of an anime game with stars and rails",
+                "homepage": null,
                 "id": 1174035907,
                 "language": "C#",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-15T16:23:13Z",
+                "open_issues": 0,
                 "owner": "Hiro420",
                 "repo": "KazusaHSR_0.56",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -512,12 +709,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C# Server",
+                "homepage": null,
                 "id": 1157630606,
                 "language": "C#",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-04-19T03:25:38Z",
+                "open_issues": 3,
                 "owner": "Mar7thLover",
                 "repo": "HyacineDH-Core",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -528,12 +730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1247233065,
                 "language": "C#",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-30T17:02:38Z",
+                "open_issues": 0,
                 "owner": "Mar7thLover",
                 "repo": "March7thHoney-OpenSource",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -544,12 +751,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A re-implementation of a game server with stars and rails, based on DanhengServer.",
+                "homepage": null,
                 "id": 1115523864,
                 "language": "C#",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-03T20:42:07Z",
+                "open_issues": 0,
                 "owner": "Mar7thLover",
                 "repo": "HyacineDH-3.8",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -567,12 +779,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 1306928510,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-08-25T13:06:01Z",
+                "open_issues": 0,
                 "owner": "LEAGUE-OF-NINE",
                 "repo": "OpenLethe",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -590,12 +807,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A sif2 server",
+                "homepage": null,
                 "id": 761398878,
                 "language": "Rust",
-                "last_commit": "2026-08-26T20:19:16Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-29T03:32:19Z",
+                "open_issues": 1,
                 "owner": "ethanaobrien",
                 "repo": "ew",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "server-emulator",
+                  "sif2"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -613,12 +838,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MahjongSoul (Steam) private server.",
+                "homepage": null,
                 "id": 1268447008,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-04T09:11:20Z",
+                "open_issues": 0,
                 "owner": "Moli13337",
                 "repo": "MahjongSoul-4.0.26",
-                "stars": 104
+                "stars": 104,
+                "topics": [
+                  "mahjong",
+                  "mahjongsoul",
+                  "private-server",
+                  "steam-games"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -636,12 +871,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Empowering everyone to host fast and efficient Minecraft servers.",
+                "homepage": "https://pumpkinmc.org/",
                 "id": 834966974,
                 "language": "Rust",
-                "last_commit": "2026-08-28T20:32:53Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T22:18:01Z",
+                "open_issues": 324,
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 10975
+                "stars": 10982,
+                "topics": [
+                  "docker",
+                  "game-server",
+                  "gamedev",
+                  "minecraft",
+                  "minecraft-bedrock-edition",
+                  "minecraft-protocol",
+                  "minecraft-server",
+                  "networking",
+                  "rust",
+                  "server"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -652,12 +903,25 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Custom server software for Minecraft: Bedrock, built from scratch in PHP, C and C++",
+                "homepage": "https://pmmp.io",
                 "id": 69691727,
                 "language": "PHP",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-07-09T11:31:21Z",
+                "open_issues": 454,
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3576
+                "stars": 3576,
+                "topics": [
+                  "minecraft",
+                  "minecraft-server",
+                  "phpstan-l9",
+                  "phpstan-strict",
+                  "pmmp",
+                  "pocketmine",
+                  "pocketmine-mp"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -668,12 +932,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A reimplementation of the minecraft server in rust.",
+                "homepage": null,
                 "id": 686252426,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-08-14T15:03:31Z",
+                "open_issues": 26,
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2390
+                "stars": 2390,
+                "topics": [
+                  "async-rust",
+                  "concurrency",
+                  "cross-platform",
+                  "game-development",
+                  "game-engine",
+                  "game-server",
+                  "minecraft",
+                  "minecraft-protocol",
+                  "minecraft-server",
+                  "modding",
+                  "multiplayer",
+                  "networking",
+                  "open-source",
+                  "packet-handler",
+                  "performance",
+                  "protocol-implementation",
+                  "rust",
+                  "server-framework",
+                  "tokio"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -691,12 +980,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Private server research project for a certain discontinued mobile game",
+                "homepage": null,
                 "id": 1178802410,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-05-28T07:51:34Z",
+                "open_issues": 1,
                 "owner": "Walter-Sparrow",
                 "repo": "lunar-tear",
-                "stars": 1044
+                "stars": 1045,
+                "topics": [
+                  "private-server"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -719,24 +1015,51 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An osu! server for the generic public, optimized for the use with modern frontends",
+                    "homepage": "https://osu-nolimits.github.io/wiki/#",
                     "id": 893865988,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-24T12:05:21Z",
+                    "open_issues": 6,
                     "owner": "osu-NoLimits",
                     "repo": "bancho.py-ex",
-                    "stars": 14
+                    "stars": 14,
+                    "topics": [
+                      "bancho",
+                      "osu",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:35:11.369Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "A private osu! server for everyone. Simpler than Akatsuki's production stack, while maintaining core functionality, plus a few unique features",
+                "homepage": "https://akatsuki.gg",
                 "id": 275804990,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-17T22:02:36Z",
+                "open_issues": 58,
                 "owner": "osuAkatsuki",
                 "repo": "bancho.py",
-                "stars": 286
+                "stars": 286,
+                "topics": [
+                  "catch",
+                  "catchthebeat",
+                  "ctb",
+                  "fruits",
+                  "mania",
+                  "osu",
+                  "osugame",
+                  "osumania",
+                  "private",
+                  "python",
+                  "server",
+                  "taiko"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -747,12 +1070,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A private server that supports all osu! clients (2007-2026)",
+                "homepage": "https://osu.titanic.sh",
                 "id": 659408796,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-28T10:54:46Z",
+                "open_issues": 5,
                 "owner": "osuTitanic",
                 "repo": "titanic",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "bancho",
+                  "game-servers",
+                  "osu",
+                  "osugame",
+                  "preservation"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -763,12 +1097,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌅 Sunrise - osu! server written in C#",
+                "homepage": "https://sunrize.uk",
                 "id": 679641084,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-07-13T03:52:48Z",
+                "open_issues": 1,
                 "owner": "SunriseCommunity",
                 "repo": "Sunrise",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "asp-net",
+                  "bancho",
+                  "game-server",
+                  "osu",
+                  "osu-pp",
+                  "osu-server",
+                  "osugame",
+                  "private-server",
+                  "rythm-game"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -779,12 +1128,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An osu!(lazer) private server that is easy to deploy, highly scalable, and fully featured to meet diverse operational needs.",
+                "homepage": "https://docs.g0v0.top/lazer/",
                 "id": 1022205952,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-24T08:20:11Z",
+                "open_issues": 11,
                 "owner": "GooGuTeam",
                 "repo": "g0v0-server",
-                "stars": 38
+                "stars": 38,
+                "topics": [
+                  "g0v0-server",
+                  "lazer",
+                  "osu",
+                  "osu-lazer",
+                  "osu-privateserver",
+                  "osugame"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -802,12 +1163,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "开放空间/OverField 服务端部分实现",
+                "homepage": null,
                 "id": 1090409761,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T09:58:00Z",
+                "open_issues": 0,
                 "owner": "BanterSR",
                 "repo": "Lolo",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -818,12 +1184,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "overfield emu server",
+                "homepage": null,
                 "id": 1071955163,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-08T16:29:25Z",
+                "open_issues": 0,
                 "owner": "byzp",
                 "repo": "of-ps",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "overfield"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -846,24 +1219,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Punishing: Gray Raven private server! this repo is a mirror",
+                    "homepage": "https://git.lewd.wtf/pgr/ascnet",
                     "id": 1102673538,
                     "language": "C#",
+                    "license": null,
                     "last_commit": "2025-11-24T00:50:29Z",
+                    "open_issues": 0,
                     "owner": "yoncodes",
                     "repo": "Lucia",
-                    "stars": 9
+                    "stars": 9,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:35:11.369Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Punishing: Gray Raven private server!",
+                "homepage": null,
                 "id": 735448621,
                 "language": "C#",
+                "license": null,
                 "last_commit": "2026-04-04T13:11:13Z",
+                "open_issues": 1,
                 "owner": "rafi1212122",
                 "repo": "AscNet",
-                "stars": 86
+                "stars": 86,
+                "topics": [
+                  "pgr",
+                  "private-server",
+                  "punishing-gray-raven"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -881,12 +1268,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "rAthena is an open-source cross-platform MMORPG server.",
+                "homepage": "https://rathena.org/board/",
                 "id": 11489037,
                 "language": "C++",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-21T17:10:08Z",
+                "open_issues": 617,
                 "owner": "rathena",
                 "repo": "rathena",
-                "stars": 3537
+                "stars": 3537,
+                "topics": [
+                  "c-plus-plus",
+                  "education",
+                  "game-development",
+                  "game-server",
+                  "hacktoberfest",
+                  "learning",
+                  "mmorpg",
+                  "mmorpg-server",
+                  "mysql",
+                  "ragnarok",
+                  "rathena",
+                  "yaml"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -904,12 +1309,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "a server software re-implementaion for R1999",
+                "homepage": null,
                 "id": 1032017573,
                 "language": "Rust",
+                "license": null,
                 "last_commit": "2026-07-26T21:50:14Z",
+                "open_issues": 0,
                 "owner": "Yoshk4e",
                 "repo": "sonetto-rs",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -927,12 +1337,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open-source C#/.NET research server emulator for local protocol and networking experimentation.",
+                "homepage": null,
                 "id": 1215604687,
                 "language": "C#",
+                "license": "MIT",
                 "last_commit": "2026-08-27T12:45:10Z",
+                "open_issues": 29,
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
-                "stars": 662
+                "stars": 663,
+                "topics": [
+                  "csharp",
+                  "dotnet",
+                  "networking",
+                  "protobuf",
+                  "reverse-engineering",
+                  "server-emulator"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -950,12 +1372,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A server emulator for the game Stella Sora",
+                "homepage": null,
                 "id": 1084120095,
                 "language": "Java",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-26T03:46:15Z",
+                "open_issues": 1,
                 "owner": "Melledy",
                 "repo": "Nebula",
-                "stars": 124
+                "stars": 124,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -978,12 +1405,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": " Zenless Zone Zero server emulator focused on efficiency, stability and correctness.",
+                    "homepage": null,
                     "id": 1255453667,
                     "language": "Zig",
+                    "license": "AGPL-3.0",
                     "last_commit": "2026-08-04T22:42:45Z",
+                    "open_issues": 0,
                     "owner": "thexeondev",
                     "repo": "remielle",
-                    "stars": 33
+                    "stars": 34,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:35:11.369Z"
                 }
@@ -1003,12 +1435,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Server emulator for a mobile pinball game.",
+                "homepage": null,
                 "id": 814032481,
                 "language": "TypeScript",
+                "license": "GPL-3.0",
                 "last_commit": "2025-04-01T19:28:19Z",
+                "open_issues": 6,
                 "owner": "duosii",
                 "repo": "starpoint",
-                "stars": 285
+                "stars": 285,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -1026,12 +1463,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "TrinityCore Open Source MMO Framework (master = 12.1.0.69497, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)",
+                "homepage": "http://www.trinitycore.org",
                 "id": 1204412,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T19:17:33Z",
+                "open_issues": 1532,
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10747
+                "stars": 10747,
+                "topics": [
+                  "hacktoberfest",
+                  "linux",
+                  "mmorpg",
+                  "multi-platform",
+                  "multiplayer",
+                  "trinitycore",
+                  "wow"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -1042,12 +1492,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Complete Open Source and Modular solution for MMO",
+                "homepage": "http://www.azerothcore.org",
                 "id": 61980658,
                 "language": "C++",
-                "last_commit": "2026-08-28T08:24:06Z",
+                "license": "GPL-2.0",
+                "last_commit": "2026-08-28T23:00:45Z",
+                "open_issues": 2496,
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8845
+                "stars": 8846,
+                "topics": [
+                  "azerothcore",
+                  "emulator",
+                  "game",
+                  "game-server",
+                  "gaming",
+                  "hacktoberfest",
+                  "mangos",
+                  "mmorpg",
+                  "mmorpg-game",
+                  "mmorpg-server",
+                  "modular",
+                  "scriptdev2",
+                  "server",
+                  "sunwellcore",
+                  "trinitycore",
+                  "world-of-warcraft",
+                  "wow"
+                ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             },
@@ -1058,12 +1531,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C(ontinued)-MaNGOS is about: -- Doing WoW-Emulation Right!",
+                "homepage": "http://cmangos.net/",
                 "id": 5559277,
                 "language": "C++",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T18:21:34Z",
+                "open_issues": 73,
                 "owner": "cmangos",
                 "repo": "mangos-wotlk",
-                "stars": 554
+                "stars": 554,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
@@ -1077,15 +1555,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:35:11.369Z",
+    "last_updated": "2026-08-29T04:57:58.806Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A non-exhaustive list of free custom server backend implementations for various games",
+      "homepage": null,
       "id": 1131549899,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-26T06:04:26Z",
+      "open_issues": 3,
       "owner": "fishiatee",
       "repo": "awesome-privateserver",
-      "stars": 141
+      "stars": 142,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "private-server",
+        "private-servers",
+        "self-hosted",
+        "selfhosted"
+      ]
     },
     "original_repository_sha": "88764fdcb0c7b321aad30e954be869b35b8a2b44",
     "enhanced_repository": "enhansome/enhansome-privateserver",
