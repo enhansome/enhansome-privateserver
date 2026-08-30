@@ -21,7 +21,7 @@
                 "open_issues": 37,
                 "owner": "Impostor",
                 "repo": "Impostor",
-                "stars": 2363,
+                "stars": 2362,
                 "topics": [
                   "among-us",
                   "private-server"
@@ -38,34 +38,35 @@
           "children": [
             {
               "node_type": "item",
-              "title": "🟩 Arcaea MoliPatch",
+              "title": "🟩 Arcaea-server",
               "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Arcaea game private server",
-                "homepage": null,
-                "id": 1261800777,
-                "language": "Python",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-08T05:27:32Z",
-                "open_issues": 4,
-                "owner": "Moli13337",
-                "repo": "Arcaea-6.15.0c",
-                "stars": 548,
-                "topics": [
-                  "arcaea",
-                  "arcaea-server",
-                  "private-server"
-                ]
-              },
-              "first_seen": "2026-08-28T20:35:11.369Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🟥 Arcaea-server",
-              "description": null,
-              "children": [],
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "🟩 Notable fork",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Arcaea game private server",
+                    "homepage": null,
+                    "id": 1261800777,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-08T05:27:32Z",
+                    "open_issues": 4,
+                    "owner": "Moli13337",
+                    "repo": "Arcaea-6.15.0c",
+                    "stars": 549,
+                    "topics": [
+                      "arcaea",
+                      "arcaea-server",
+                      "private-server"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T20:35:11.369Z"
+                }
+              ],
               "repo_info": {
                 "archived": false,
                 "description": "一个微型的 Arcaea 本地服务器  A small local server for Arcaea",
@@ -74,7 +75,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-29T13:40:49Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "Lost-MSth",
                 "repo": "Arcaea-server",
                 "stars": 477,
@@ -96,27 +97,6 @@
           "children": [
             {
               "node_type": "item",
-              "title": "🟥 OpenDoctoratePy",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": true,
-                "description": "明日方舟本地服务端拓展版本",
-                "homepage": null,
-                "id": 762149427,
-                "language": "Python",
-                "license": "GPL-3.0",
-                "last_commit": "2026-02-20T11:51:03Z",
-                "open_issues": 1,
-                "owner": "jiellll1219",
-                "repo": "OpenDoctoratePy-EX-Public",
-                "stars": 173,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T20:35:11.369Z"
-            },
-            {
-              "node_type": "item",
               "title": "🟩 OpenBachelorS",
               "description": null,
               "children": [],
@@ -131,10 +111,31 @@
                 "open_issues": 0,
                 "owner": "pfyy",
                 "repo": "OpenBachelorS",
-                "stars": 25,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
+            },
+            {
+              "node_type": "item",
+              "title": "🟥 DoctoratePy",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 591943879,
+                "language": null,
+                "license": null,
+                "last_commit": "2023-01-21T05:40:30Z",
+                "open_issues": 0,
+                "owner": "nonobject14514",
+                "repo": "DoctoratePy",
+                "stars": 26,
+                "topics": []
+              },
+              "first_seen": "2026-08-30T14:13:18.723Z"
             }
           ],
           "description": "[!NOTE] Developed by Hypergryph. Published by Hypergryph in China, Gryphline in Taiwan, and Yostar worldwide.",
@@ -230,33 +231,6 @@
                 ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
-            },
-            {
-              "node_type": "item",
-              "title": "🟩 CheshireLane",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A stubbornly still-alive server emulator for an anime fleet game client v9.x.",
-                "homepage": null,
-                "id": 1292539489,
-                "language": "Rust",
-                "license": "AGPL-3.0",
-                "last_commit": "2026-07-11T03:15:09Z",
-                "open_issues": 0,
-                "owner": "Irminsul-dev",
-                "repo": "CheshireLane9",
-                "stars": 7,
-                "topics": [
-                  "azur-lane",
-                  "azurlane",
-                  "private-server",
-                  "rust",
-                  "yostar"
-                ]
-              },
-              "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
           "description": "[!NOTE] Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide.",
@@ -305,11 +279,11 @@
                 "id": 959908,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-26T11:59:17Z",
-                "open_issues": 1591,
+                "last_commit": "2026-08-29T17:50:02Z",
+                "open_issues": 1582,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17294,
+                "stars": 17299,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -353,7 +327,7 @@
                 "open_issues": 6,
                 "owner": "MadlyMoe",
                 "repo": "RevivalSide",
-                "stars": 114,
+                "stars": 115,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -431,7 +405,7 @@
               "children": [
                 {
                   "node_type": "item",
-                  "title": "🟩 C# Rewrite",
+                  "title": "🟥 C# Rewrite",
                   "description": null,
                   "children": [],
                   "repo_info": {
@@ -530,6 +504,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:35:11.369Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "🟩 LunaGC",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "LunaGC",
+                    "homepage": null,
+                    "id": 1348128976,
+                    "language": "Java",
+                    "license": null,
+                    "last_commit": "2026-08-29T14:31:27Z",
+                    "open_issues": 0,
+                    "owner": "girluh",
+                    "repo": "LunaGC",
+                    "stars": 6,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-30T14:13:18.723Z"
                 }
               ],
               "repo_info": {
@@ -543,7 +538,7 @@
                 "open_issues": 152,
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16810,
+                "stars": 16811,
                 "topics": [
                   "java",
                   "kcp",
@@ -614,11 +609,11 @@
                 "id": 1276048790,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-08-29T10:38:51Z",
+                "last_commit": "2026-08-30T13:19:30Z",
                 "open_issues": 1,
                 "owner": "raphaeIl",
                 "repo": "NTRSimulator",
-                "stars": 33,
+                "stars": 35,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -674,7 +669,7 @@
                 "open_issues": 27,
                 "owner": "Melledy",
                 "repo": "LunarCore",
-                "stars": 1422,
+                "stars": 1423,
                 "topics": [
                   "game-server"
                 ]
@@ -683,7 +678,7 @@
             },
             {
               "node_type": "item",
-              "title": "🟩 KazusaHSR_0.56",
+              "title": "🟥 KazusaHSR_0.56",
               "description": null,
               "children": [],
               "repo_info": {
@@ -788,7 +783,7 @@
                 "open_issues": 0,
                 "owner": "LEAGUE-OF-NINE",
                 "repo": "OpenLethe",
-                "stars": 6,
+                "stars": 7,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -825,42 +820,9 @@
               "first_seen": "2026-08-28T20:35:11.369Z"
             }
           ],
-          "description": "[!NOTE] Developed by GREE and published by Bushiroad. Reached End of Service since May 2024.",
+          "description": "[!NOTE] Developed by GREE and published by Bushiroad. This game had reached End of Service since May 2024.",
           "node_type": "group",
           "title": "Love Live! School idol festival 2 MIRACLE LIVE! (2024)"
-        },
-        {
-          "children": [
-            {
-              "node_type": "item",
-              "title": "🟩 MahjongSoul-4.0.26",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "MahjongSoul (Steam) private server.",
-                "homepage": null,
-                "id": 1268447008,
-                "language": "TypeScript",
-                "license": "GPL-3.0",
-                "last_commit": "2026-07-04T09:11:20Z",
-                "open_issues": 0,
-                "owner": "Moli13337",
-                "repo": "MahjongSoul-4.0.26",
-                "stars": 104,
-                "topics": [
-                  "mahjong",
-                  "mahjongsoul",
-                  "private-server",
-                  "steam-games"
-                ]
-              },
-              "first_seen": "2026-08-28T20:35:11.369Z"
-            }
-          ],
-          "description": "[!NOTE] Developed by Cat Food Studio and published by Cat Food Studio(CN)/Yostar(Global).",
-          "node_type": "group",
-          "title": "Mahjong Soul (2018)"
         },
         {
           "children": [
@@ -876,11 +838,11 @@
                 "id": 834966974,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-29T14:04:19Z",
-                "open_issues": 333,
+                "last_commit": "2026-08-30T11:22:20Z",
+                "open_issues": 342,
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 10990,
+                "stars": 11012,
                 "topics": [
                   "docker",
                   "game-server",
@@ -898,7 +860,7 @@
             },
             {
               "node_type": "item",
-              "title": "🟩 PocketMine-MP",
+              "title": "🟥 PocketMine-MP",
               "description": null,
               "children": [],
               "repo_info": {
@@ -912,7 +874,7 @@
                 "open_issues": 454,
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3576,
+                "stars": 3577,
                 "topics": [
                   "minecraft",
                   "minecraft-server",
@@ -941,7 +903,7 @@
                 "open_issues": 26,
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2392,
+                "stars": 2391,
                 "topics": [
                   "async-rust",
                   "concurrency",
@@ -965,6 +927,27 @@
                 ]
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
+            },
+            {
+              "node_type": "item",
+              "title": "🟩 SteelMC",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A Minecraft server in Rust focused on a strong foundation and performance",
+                "homepage": "https://steelmc.dev/",
+                "id": 1076860017,
+                "language": "Rust",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T11:48:49Z",
+                "open_issues": 117,
+                "owner": "Steel-Foundation",
+                "repo": "SteelMC",
+                "stars": 592,
+                "topics": []
+              },
+              "first_seen": "2026-08-30T14:13:18.723Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Mojang Studios.",
@@ -1075,7 +1058,7 @@
                 "id": 659408796,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-08-29T13:42:25Z",
+                "last_commit": "2026-08-30T13:44:30Z",
                 "open_issues": 5,
                 "owner": "osuTitanic",
                 "repo": "titanic",
@@ -1133,8 +1116,8 @@
                 "id": 1022205952,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-24T08:20:11Z",
-                "open_issues": 11,
+                "last_commit": "2026-08-30T01:06:04Z",
+                "open_issues": 12,
                 "owner": "GooGuTeam",
                 "repo": "g0v0-server",
                 "stars": 38,
@@ -1277,7 +1260,7 @@
                 "open_issues": 617,
                 "owner": "rathena",
                 "repo": "rathena",
-                "stars": 3537,
+                "stars": 3536,
                 "topics": [
                   "c-plus-plus",
                   "education",
@@ -1322,6 +1305,27 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
+            },
+            {
+              "node_type": "item",
+              "title": "🟩 enigma",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "server for that one card game",
+                "homepage": null,
+                "id": 1305659266,
+                "language": "Rust",
+                "license": null,
+                "last_commit": "2026-08-25T09:48:36Z",
+                "open_issues": 16,
+                "owner": "yoncodes",
+                "repo": "enigma",
+                "stars": 0,
+                "topics": []
+              },
+              "first_seen": "2026-08-30T14:13:18.723Z"
             }
           ],
           "description": "[!NOTE] Developed and published by Bluepoch.",
@@ -1346,7 +1350,7 @@
                 "open_issues": 30,
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
-                "stars": 664,
+                "stars": 667,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1468,11 +1472,11 @@
                 "id": 1204412,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-29T08:33:27Z",
-                "open_issues": 1532,
+                "last_commit": "2026-08-30T12:40:14Z",
+                "open_issues": 1530,
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10747,
+                "stars": 10750,
                 "topics": [
                   "hacktoberfest",
                   "linux",
@@ -1498,10 +1502,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-08-29T09:54:15Z",
-                "open_issues": 2497,
+                "open_issues": 2504,
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8848,
+                "stars": 8853,
                 "topics": [
                   "azerothcore",
                   "emulator",
@@ -1540,7 +1544,7 @@
                 "open_issues": 73,
                 "owner": "cmangos",
                 "repo": "mangos-wotlk",
-                "stars": 554,
+                "stars": 555,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -1555,7 +1559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:06:44.421Z",
+    "last_updated": "2026-08-30T14:13:18.723Z",
     "original_repository_info": {
       "archived": false,
       "description": "A non-exhaustive list of free custom server backend implementations for various games",
@@ -1563,11 +1567,11 @@
       "id": 1131549899,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-26T06:04:26Z",
-      "open_issues": 4,
+      "last_commit": "2026-08-30T07:35:38Z",
+      "open_issues": 2,
       "owner": "fishiatee",
       "repo": "awesome-privateserver",
-      "stars": 142,
+      "stars": 144,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1577,7 +1581,7 @@
         "selfhosted"
       ]
     },
-    "original_repository_sha": "88764fdcb0c7b321aad30e954be869b35b8a2b44",
+    "original_repository_sha": "b4ceda4df66a54870efd5d3f12cd31c2c0ff8a42",
     "enhanced_repository": "enhansome/enhansome-privateserver",
     "enhanced_repository_description": null,
     "title": "awesome-privateserver with stars"
