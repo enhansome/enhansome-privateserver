@@ -57,7 +57,7 @@
                     "open_issues": 5,
                     "owner": "Moli13337",
                     "repo": "Arcaea-6.15.0c",
-                    "stars": 553,
+                    "stars": 555,
                     "topics": [
                       "arcaea",
                       "arcaea-server",
@@ -111,7 +111,7 @@
                 "open_issues": 0,
                 "owner": "pfyy",
                 "repo": "OpenBachelorS",
-                "stars": 28,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -191,7 +191,7 @@
                 "open_issues": 0,
                 "owner": "Moli13337",
                 "repo": "Azurlane-9.7.205",
-                "stars": 267,
+                "stars": 268,
                 "topics": [
                   "azur-lane",
                   "azurlane",
@@ -255,7 +255,7 @@
                 "open_issues": 1,
                 "owner": "gucooing",
                 "repo": "BaPs",
-                "stars": 109,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -283,7 +283,7 @@
                 "open_issues": 1589,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17342,
+                "stars": 17344,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -521,7 +521,7 @@
                     "open_issues": 0,
                     "owner": "girluh",
                     "repo": "LunaGC",
-                    "stars": 8,
+                    "stars": 9,
                     "topics": []
                   },
                   "first_seen": "2026-08-30T14:13:18.723Z"
@@ -538,7 +538,7 @@
                 "open_issues": 152,
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16807,
+                "stars": 16808,
                 "topics": [
                   "java",
                   "kcp",
@@ -838,11 +838,11 @@
                 "id": 834966974,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-06T11:55:09Z",
-                "open_issues": 375,
+                "last_commit": "2026-09-07T00:24:59Z",
+                "open_issues": 409,
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 11099,
+                "stars": 11133,
                 "topics": [
                   "docker",
                   "game-server",
@@ -940,11 +940,11 @@
                 "id": 1076860017,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-06T11:32:52Z",
-                "open_issues": 120,
+                "last_commit": "2026-09-07T00:03:10Z",
+                "open_issues": 118,
                 "owner": "Steel-Foundation",
                 "repo": "SteelMC",
-                "stars": 632,
+                "stars": 637,
                 "topics": []
               },
               "first_seen": "2026-08-30T14:13:18.723Z"
@@ -972,7 +972,7 @@
                 "open_issues": 1,
                 "owner": "Walter-Sparrow",
                 "repo": "lunar-tear",
-                "stars": 1053,
+                "stars": 1054,
                 "topics": [
                   "private-server"
                 ]
@@ -1058,7 +1058,7 @@
                 "id": 659408796,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-06T11:35:37Z",
+                "last_commit": "2026-09-07T04:02:35Z",
                 "open_issues": 8,
                 "owner": "osuTitanic",
                 "repo": "titanic",
@@ -1350,7 +1350,7 @@
                 "open_issues": 30,
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
-                "stars": 682,
+                "stars": 685,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1414,7 +1414,7 @@
                     "id": 1255453667,
                     "language": "Zig",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-08-04T22:42:45Z",
+                    "last_commit": "2026-09-07T14:01:28Z",
                     "open_issues": 0,
                     "owner": "thexeondev",
                     "repo": "remielle",
@@ -1472,11 +1472,11 @@
                 "id": 1204412,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-05T18:27:08Z",
+                "last_commit": "2026-09-06T18:59:05Z",
                 "open_issues": 1534,
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10754,
+                "stars": 10756,
                 "topics": [
                   "hacktoberfest",
                   "linux",
@@ -1501,11 +1501,11 @@
                 "id": 61980658,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-06T10:10:31Z",
-                "open_issues": 2524,
+                "last_commit": "2026-09-07T14:37:14Z",
+                "open_issues": 2511,
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8873,
+                "stars": 8875,
                 "topics": [
                   "azerothcore",
                   "emulator",
@@ -1559,7 +1559,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T12:31:27.169Z",
+    "last_updated": "2026-09-07T14:40:40.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A non-exhaustive list of free custom server backend implementations for various games",
@@ -1571,7 +1571,7 @@
       "open_issues": 2,
       "owner": "fishiatee",
       "repo": "awesome-privateserver",
-      "stars": 153,
+      "stars": 154,
       "topics": [
         "awesome",
         "awesome-list",
