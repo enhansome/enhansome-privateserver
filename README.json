@@ -57,7 +57,7 @@
                     "open_issues": 5,
                     "owner": "Moli13337",
                     "repo": "Arcaea-6.15.0c",
-                    "stars": 556,
+                    "stars": 561,
                     "topics": [
                       "arcaea",
                       "arcaea-server",
@@ -283,7 +283,7 @@
                 "open_issues": 1589,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17351,
+                "stars": 17356,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -327,7 +327,7 @@
                 "open_issues": 7,
                 "owner": "MadlyMoe",
                 "repo": "RevivalSide",
-                "stars": 133,
+                "stars": 134,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -467,7 +467,7 @@
                 "open_issues": 20,
                 "owner": "EpinelPS",
                 "repo": "EpinelPS",
-                "stars": 549,
+                "stars": 551,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -521,7 +521,7 @@
                     "open_issues": 0,
                     "owner": "girluh",
                     "repo": "LunaGC",
-                    "stars": 11,
+                    "stars": 12,
                     "topics": []
                   },
                   "first_seen": "2026-08-30T14:13:18.723Z"
@@ -538,7 +538,7 @@
                 "open_issues": 152,
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16811,
+                "stars": 16810,
                 "topics": [
                   "java",
                   "kcp",
@@ -734,7 +734,7 @@
                 "open_issues": 0,
                 "owner": "Mar7thLover",
                 "repo": "March7thHoney-OpenSource",
-                "stars": 24,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -838,11 +838,11 @@
                 "id": 834966974,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-09T06:44:37Z",
-                "open_issues": 400,
+                "last_commit": "2026-09-10T08:12:38Z",
+                "open_issues": 378,
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 11173,
+                "stars": 11186,
                 "topics": [
                   "docker",
                   "game-server",
@@ -903,7 +903,7 @@
                 "open_issues": 27,
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2395,
+                "stars": 2396,
                 "topics": [
                   "async-rust",
                   "concurrency",
@@ -940,11 +940,11 @@
                 "id": 1076860017,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-09T10:34:33Z",
-                "open_issues": 129,
+                "last_commit": "2026-09-10T13:14:51Z",
+                "open_issues": 121,
                 "owner": "Steel-Foundation",
                 "repo": "SteelMC",
-                "stars": 647,
+                "stars": 655,
                 "topics": []
               },
               "first_seen": "2026-08-30T14:13:18.723Z"
@@ -972,7 +972,7 @@
                 "open_issues": 1,
                 "owner": "Walter-Sparrow",
                 "repo": "lunar-tear",
-                "stars": 1055,
+                "stars": 1056,
                 "topics": [
                   "private-server"
                 ]
@@ -1257,10 +1257,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-04T10:06:23Z",
-                "open_issues": 622,
+                "open_issues": 623,
                 "owner": "rathena",
                 "repo": "rathena",
-                "stars": 3553,
+                "stars": 3557,
                 "topics": [
                   "c-plus-plus",
                   "education",
@@ -1350,7 +1350,7 @@
                 "open_issues": 30,
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
-                "stars": 687,
+                "stars": 690,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1398,6 +1398,37 @@
         {
           "children": [
             {
+              "node_type": "item",
+              "title": "🟩 YgoMaster",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Offline Yu-Gi-Oh! Master Duel",
+                "homepage": null,
+                "id": 453673897,
+                "language": "C#",
+                "license": "MIT",
+                "last_commit": "2026-09-04T17:45:35Z",
+                "open_issues": 6,
+                "owner": "pixeltris",
+                "repo": "YgoMaster",
+                "stars": 1357,
+                "topics": [
+                  "masterduel",
+                  "yugioh"
+                ]
+              },
+              "first_seen": "2026-09-10T13:15:48.629Z"
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Konami Digital Entertainment.",
+          "node_type": "group",
+          "title": "Yu-Gi-Oh! Master Duel (2022)"
+        },
+        {
+          "children": [
+            {
               "node_type": "group",
               "title": "🟥 Yoshunko",
               "description": null,
@@ -1414,7 +1445,7 @@
                     "id": 1255453667,
                     "language": "Zig",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-09T12:50:55Z",
+                    "last_commit": "2026-09-09T14:49:31Z",
                     "open_issues": 0,
                     "owner": "thexeondev",
                     "repo": "remielle",
@@ -1472,11 +1503,11 @@
                 "id": 1204412,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-09T10:08:21Z",
-                "open_issues": 1531,
+                "last_commit": "2026-09-10T12:31:15Z",
+                "open_issues": 1529,
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10756,
+                "stars": 10762,
                 "topics": [
                   "hacktoberfest",
                   "linux",
@@ -1501,11 +1532,11 @@
                 "id": 61980658,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-09T08:28:45Z",
+                "last_commit": "2026-09-10T09:48:16Z",
                 "open_issues": 2484,
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8885,
+                "stars": 8891,
                 "topics": [
                   "azerothcore",
                   "emulator",
@@ -1559,7 +1590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T13:18:18.262Z",
+    "last_updated": "2026-09-10T13:15:48.629Z",
     "original_repository_info": {
       "archived": false,
       "description": "A non-exhaustive list of free custom server backend implementations for various games",
@@ -1567,7 +1598,7 @@
       "id": 1131549899,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-30T07:35:38Z",
+      "last_commit": "2026-09-10T04:44:05Z",
       "open_issues": 2,
       "owner": "fishiatee",
       "repo": "awesome-privateserver",
@@ -1581,7 +1612,7 @@
         "selfhosted"
       ]
     },
-    "original_repository_sha": "b4ceda4df66a54870efd5d3f12cd31c2c0ff8a42",
+    "original_repository_sha": "15e976a2536a43382bfa053acb40dd0ea35c05c1",
     "enhanced_repository": "enhansome/enhansome-privateserver",
     "enhanced_repository_description": null,
     "title": "awesome-privateserver with stars"
