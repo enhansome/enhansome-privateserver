@@ -57,7 +57,7 @@
                     "open_issues": 5,
                     "owner": "Moli13337",
                     "repo": "Arcaea-6.15.0c",
-                    "stars": 561,
+                    "stars": 572,
                     "topics": [
                       "arcaea",
                       "arcaea-server",
@@ -107,7 +107,7 @@
                 "id": 1141503918,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-08T13:06:27Z",
+                "last_commit": "2026-09-11T12:21:50Z",
                 "open_issues": 0,
                 "owner": "pfyy",
                 "repo": "OpenBachelorS",
@@ -220,7 +220,7 @@
                 "open_issues": 9,
                 "owner": "ggmolly",
                 "repo": "belfast",
-                "stars": 117,
+                "stars": 118,
                 "topics": [
                   "azur-lane",
                   "azurlane",
@@ -280,10 +280,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-04T21:06:36Z",
-                "open_issues": 1589,
+                "open_issues": 1590,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17356,
+                "stars": 17357,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -351,8 +351,8 @@
                 "id": 535067147,
                 "language": "C#",
                 "license": "MIT",
-                "last_commit": "2026-09-01T18:01:07Z",
-                "open_issues": 58,
+                "last_commit": "2026-09-10T18:59:31Z",
+                "open_issues": 59,
                 "owner": "SapiensAnatis",
                 "repo": "Dawnshard",
                 "stars": 149,
@@ -463,11 +463,11 @@
                 "id": 820512352,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-04T14:29:04Z",
+                "last_commit": "2026-09-10T21:12:04Z",
                 "open_issues": 20,
                 "owner": "EpinelPS",
                 "repo": "EpinelPS",
-                "stars": 551,
+                "stars": 553,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -538,7 +538,7 @@
                 "open_issues": 152,
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16810,
+                "stars": 16811,
                 "topics": [
                   "java",
                   "kcp",
@@ -613,7 +613,7 @@
                 "open_issues": 1,
                 "owner": "raphaeIl",
                 "repo": "NTRSimulator",
-                "stars": 39,
+                "stars": 40,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -734,7 +734,7 @@
                 "open_issues": 0,
                 "owner": "Mar7thLover",
                 "repo": "March7thHoney-OpenSource",
-                "stars": 26,
+                "stars": 29,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -838,11 +838,11 @@
                 "id": 834966974,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-10T08:12:38Z",
-                "open_issues": 378,
+                "last_commit": "2026-09-11T11:52:19Z",
+                "open_issues": 372,
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 11186,
+                "stars": 11196,
                 "topics": [
                   "docker",
                   "game-server",
@@ -940,11 +940,11 @@
                 "id": 1076860017,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-10T13:14:51Z",
-                "open_issues": 121,
+                "last_commit": "2026-09-11T13:05:35Z",
+                "open_issues": 119,
                 "owner": "Steel-Foundation",
                 "repo": "SteelMC",
-                "stars": 655,
+                "stars": 660,
                 "topics": []
               },
               "first_seen": "2026-08-30T14:13:18.723Z"
@@ -1257,10 +1257,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-04T10:06:23Z",
-                "open_issues": 623,
+                "open_issues": 622,
                 "owner": "rathena",
                 "repo": "rathena",
-                "stars": 3557,
+                "stars": 3558,
                 "topics": [
                   "c-plus-plus",
                   "education",
@@ -1413,7 +1413,7 @@
                 "open_issues": 6,
                 "owner": "pixeltris",
                 "repo": "YgoMaster",
-                "stars": 1357,
+                "stars": 1358,
                 "topics": [
                   "masterduel",
                   "yugioh"
@@ -1479,7 +1479,7 @@
                 "open_issues": 6,
                 "owner": "duosii",
                 "repo": "starpoint",
-                "stars": 286,
+                "stars": 287,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -1503,11 +1503,11 @@
                 "id": 1204412,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-10T12:31:15Z",
-                "open_issues": 1529,
+                "last_commit": "2026-09-10T20:17:09Z",
+                "open_issues": 1528,
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10762,
+                "stars": 10765,
                 "topics": [
                   "hacktoberfest",
                   "linux",
@@ -1532,11 +1532,11 @@
                 "id": 61980658,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-10T09:48:16Z",
-                "open_issues": 2484,
+                "last_commit": "2026-09-11T12:07:25Z",
+                "open_issues": 2482,
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8891,
+                "stars": 8895,
                 "topics": [
                   "azerothcore",
                   "emulator",
@@ -1590,7 +1590,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T13:15:48.629Z",
+    "last_updated": "2026-09-11T13:09:36.319Z",
     "original_repository_info": {
       "archived": false,
       "description": "A non-exhaustive list of free custom server backend implementations for various games",
