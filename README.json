@@ -7,6 +7,34 @@
           "children": [
             {
               "node_type": "item",
+              "title": "🟩 garcia",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "server for a random 2d game",
+                "homepage": null,
+                "id": 1378766913,
+                "language": "Rust",
+                "license": null,
+                "last_commit": "2026-09-21T23:19:37Z",
+                "open_issues": 0,
+                "owner": "yoncodes",
+                "repo": "garcia",
+                "stars": 1,
+                "topics": []
+              },
+              "first_seen": "2026-09-23T14:00:32.066Z"
+            }
+          ],
+          "description": "[!NOTE] Developed and published by Genmugame.",
+          "node_type": "group",
+          "title": "ALLfiring (2026)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "🟩 Impostor",
               "description": null,
               "children": [],
@@ -17,8 +45,8 @@
                 "id": 297163997,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-30T16:49:25Z",
-                "open_issues": 36,
+                "last_commit": "2026-09-22T18:41:02Z",
+                "open_issues": 35,
                 "owner": "Impostor",
                 "repo": "Impostor",
                 "stars": 2368,
@@ -107,7 +135,7 @@
                 "id": 1141503918,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-20T13:15:14Z",
+                "last_commit": "2026-09-23T13:53:47Z",
                 "open_issues": 0,
                 "owner": "pfyy",
                 "repo": "OpenBachelorS",
@@ -283,7 +311,7 @@
                 "open_issues": 1598,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17416,
+                "stars": 17419,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -457,7 +485,7 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-19T15:24:52Z",
-                "open_issues": 51,
+                "open_issues": 52,
                 "owner": "SP-Tushonka",
                 "repo": "server-csharp",
                 "stars": 40,
@@ -542,7 +570,7 @@
                     "open_issues": 0,
                     "owner": "girluh",
                     "repo": "LunaGC",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": []
                   },
                   "first_seen": "2026-08-30T14:13:18.723Z"
@@ -559,7 +587,7 @@
                 "open_issues": 152,
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16818,
+                "stars": 16819,
                 "topics": [
                   "java",
                   "kcp",
@@ -859,11 +887,11 @@
                 "id": 834966974,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-22T08:22:03Z",
-                "open_issues": 550,
+                "last_commit": "2026-09-23T08:06:09Z",
+                "open_issues": 554,
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 11323,
+                "stars": 11332,
                 "topics": [
                   "docker",
                   "game-server",
@@ -895,7 +923,7 @@
                 "open_issues": 453,
                 "owner": "pmmp",
                 "repo": "PocketMine-MP",
-                "stars": 3576,
+                "stars": 3577,
                 "topics": [
                   "minecraft",
                   "minecraft-server",
@@ -924,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2401,
+                "stars": 2400,
                 "topics": [
                   "async-rust",
                   "concurrency",
@@ -961,11 +989,11 @@
                 "id": 1076860017,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-22T13:08:33Z",
-                "open_issues": 131,
+                "last_commit": "2026-09-22T17:13:37Z",
+                "open_issues": 127,
                 "owner": "Steel-Foundation",
                 "repo": "SteelMC",
-                "stars": 697,
+                "stars": 696,
                 "topics": []
               },
               "first_seen": "2026-08-30T14:13:18.723Z"
@@ -993,7 +1021,7 @@
                 "open_issues": 1,
                 "owner": "Walter-Sparrow",
                 "repo": "lunar-tear",
-                "stars": 1067,
+                "stars": 1068,
                 "topics": [
                   "private-server"
                 ]
@@ -1080,7 +1108,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-09-21T21:24:34Z",
-                "open_issues": 11,
+                "open_issues": 13,
                 "owner": "osuTitanic",
                 "repo": "titanic",
                 "stars": 60,
@@ -1110,7 +1138,7 @@
                 "open_issues": 1,
                 "owner": "SunriseCommunity",
                 "repo": "Sunrise",
-                "stars": 51,
+                "stars": 50,
                 "topics": [
                   "asp-net",
                   "bancho",
@@ -1218,6 +1246,33 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "🟩 InfiniteLoop",
+                  "description": null,
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "AscNet Evolved. Support for PGR 4.7 Steam Version & Kuro Launcher. GLO / TW",
+                    "homepage": null,
+                    "id": 1282309440,
+                    "language": "HTML",
+                    "license": null,
+                    "last_commit": "2026-09-20T14:23:42Z",
+                    "open_issues": 4,
+                    "owner": "reiserFSs",
+                    "repo": "InfiniteLoop",
+                    "stars": 30,
+                    "topics": [
+                      "gacha-game",
+                      "live-service",
+                      "pgr",
+                      "private-server",
+                      "punishing-gray-raven"
+                    ]
+                  },
+                  "first_seen": "2026-09-23T14:00:32.066Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "🟥 Lucia",
                   "description": null,
                   "children": [],
@@ -1281,7 +1336,7 @@
                 "open_issues": 624,
                 "owner": "rathena",
                 "repo": "rathena",
-                "stars": 3574,
+                "stars": 3575,
                 "topics": [
                   "c-plus-plus",
                   "education",
@@ -1343,7 +1398,7 @@
                 "open_issues": 24,
                 "owner": "yoncodes",
                 "repo": "enigma",
-                "stars": 11,
+                "stars": 13,
                 "topics": []
               },
               "first_seen": "2026-08-30T14:13:18.723Z"
@@ -1368,10 +1423,10 @@
                 "language": "C#",
                 "license": "MIT",
                 "last_commit": "2026-09-20T07:01:01Z",
-                "open_issues": 31,
+                "open_issues": 30,
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
-                "stars": 707,
+                "stars": 709,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1434,7 +1489,7 @@
                 "open_issues": 6,
                 "owner": "pixeltris",
                 "repo": "YgoMaster",
-                "stars": 1366,
+                "stars": 1367,
                 "topics": [
                   "masterduel",
                   "yugioh"
@@ -1466,11 +1521,11 @@
                     "id": 1255453667,
                     "language": "Zig",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-09-15T22:21:42Z",
+                    "last_commit": "2026-09-23T12:59:15Z",
                     "open_issues": 0,
                     "owner": "thexeondev",
                     "repo": "remielle",
-                    "stars": 43,
+                    "stars": 44,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:35:11.369Z"
@@ -1519,16 +1574,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "TrinityCore Open Source MMO Framework (master = 12.1.0.69875, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)",
+                "description": "TrinityCore Open Source MMO Framework (master = 12.1.0.69933, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)",
                 "homepage": "http://www.trinitycore.org",
                 "id": 1204412,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-22T12:12:46Z",
+                "last_commit": "2026-09-23T07:58:19Z",
                 "open_issues": 1518,
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10782,
+                "stars": 10783,
                 "topics": [
                   "hacktoberfest",
                   "linux",
@@ -1553,11 +1608,11 @@
                 "id": 61980658,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-22T01:15:51Z",
-                "open_issues": 2439,
+                "last_commit": "2026-09-23T01:03:52Z",
+                "open_issues": 2438,
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8956,
+                "stars": 8959,
                 "topics": [
                   "azerothcore",
                   "emulator",
@@ -1596,7 +1651,7 @@
                 "open_issues": 64,
                 "owner": "cmangos",
                 "repo": "mangos-wotlk",
-                "stars": 556,
+                "stars": 555,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -1611,7 +1666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T13:49:27.764Z",
+    "last_updated": "2026-09-23T14:00:32.066Z",
     "original_repository_info": {
       "archived": false,
       "description": "A non-exhaustive list of free custom server backend implementations for various games",
@@ -1619,11 +1674,11 @@
       "id": 1131549899,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-14T22:33:27Z",
+      "last_commit": "2026-09-23T06:41:47Z",
       "open_issues": 2,
       "owner": "fishiatee",
       "repo": "awesome-privateserver",
-      "stars": 179,
+      "stars": 183,
       "topics": [
         "awesome",
         "awesome-list",
@@ -1633,7 +1688,7 @@
         "selfhosted"
       ]
     },
-    "original_repository_sha": "2c8ef0ab8b64d4c7e22999d9e643ca2999f621ec",
+    "original_repository_sha": "fb7374778e5f1a0169879fbc1c3bb915bf2a93cc",
     "enhanced_repository": "enhansome/enhansome-privateserver",
     "enhanced_repository_description": null,
     "title": "awesome-privateserver with stars"
