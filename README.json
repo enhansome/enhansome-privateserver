@@ -21,7 +21,7 @@
                 "open_issues": 0,
                 "owner": "yoncodes",
                 "repo": "garcia",
-                "stars": 1,
+                "stars": 2,
                 "topics": []
               },
               "first_seen": "2026-09-23T14:00:32.066Z"
@@ -85,7 +85,7 @@
                     "open_issues": 6,
                     "owner": "Moli13337",
                     "repo": "Arcaea-6.15.0c",
-                    "stars": 575,
+                    "stars": 576,
                     "topics": [
                       "arcaea",
                       "arcaea-server",
@@ -135,7 +135,7 @@
                 "id": 1141503918,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-09-23T13:53:47Z",
+                "last_commit": "2026-09-23T23:14:36Z",
                 "open_issues": 0,
                 "owner": "pfyy",
                 "repo": "OpenBachelorS",
@@ -188,7 +188,7 @@
                 "open_issues": 0,
                 "owner": "Yoshk4e",
                 "repo": "perlica-rs",
-                "stars": 57,
+                "stars": 58,
                 "topics": [
                   "private-server",
                   "rust"
@@ -311,7 +311,7 @@
                 "open_issues": 1598,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17419,
+                "stars": 17430,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -355,7 +355,7 @@
                 "open_issues": 8,
                 "owner": "MadlyMoe",
                 "repo": "RevivalSide",
-                "stars": 142,
+                "stars": 145,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -485,10 +485,10 @@
                 "language": "C#",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-19T15:24:52Z",
-                "open_issues": 52,
+                "open_issues": 54,
                 "owner": "SP-Tushonka",
                 "repo": "server-csharp",
-                "stars": 40,
+                "stars": 41,
                 "topics": []
               },
               "first_seen": "2026-09-15T14:04:48.867Z"
@@ -512,7 +512,7 @@
                 "id": 820512352,
                 "language": "C#",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-19T03:22:27Z",
+                "last_commit": "2026-09-23T19:35:05Z",
                 "open_issues": 17,
                 "owner": "EpinelPS",
                 "repo": "EpinelPS",
@@ -570,7 +570,7 @@
                     "open_issues": 0,
                     "owner": "girluh",
                     "repo": "LunaGC",
-                    "stars": 18,
+                    "stars": 19,
                     "topics": []
                   },
                   "first_seen": "2026-08-30T14:13:18.723Z"
@@ -662,7 +662,7 @@
                 "open_issues": 2,
                 "owner": "raphaeIl",
                 "repo": "NTRSimulator",
-                "stars": 42,
+                "stars": 43,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -856,7 +856,7 @@
                 "id": 761398878,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T16:54:40Z",
+                "last_commit": "2026-09-24T01:36:58Z",
                 "open_issues": 1,
                 "owner": "ethanaobrien",
                 "repo": "ew",
@@ -887,11 +887,11 @@
                 "id": 834966974,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T08:06:09Z",
-                "open_issues": 554,
+                "last_commit": "2026-09-24T11:35:23Z",
+                "open_issues": 556,
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 11332,
+                "stars": 11333,
                 "topics": [
                   "docker",
                   "game-server",
@@ -952,7 +952,7 @@
                 "open_issues": 27,
                 "owner": "ferrumc-rs",
                 "repo": "ferrumc",
-                "stars": 2400,
+                "stars": 2402,
                 "topics": [
                   "async-rust",
                   "concurrency",
@@ -989,11 +989,11 @@
                 "id": 1076860017,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-22T17:13:37Z",
-                "open_issues": 127,
+                "last_commit": "2026-09-24T11:40:07Z",
+                "open_issues": 126,
                 "owner": "Steel-Foundation",
                 "repo": "SteelMC",
-                "stars": 696,
+                "stars": 697,
                 "topics": []
               },
               "first_seen": "2026-08-30T14:13:18.723Z"
@@ -1021,7 +1021,7 @@
                 "open_issues": 1,
                 "owner": "Walter-Sparrow",
                 "repo": "lunar-tear",
-                "stars": 1068,
+                "stars": 1067,
                 "topics": [
                   "private-server"
                 ]
@@ -1165,7 +1165,7 @@
                 "id": 1022205952,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-20T01:05:55Z",
+                "last_commit": "2026-09-24T11:14:18Z",
                 "open_issues": 11,
                 "owner": "GooGuTeam",
                 "repo": "g0v0-server",
@@ -1336,7 +1336,7 @@
                 "open_issues": 624,
                 "owner": "rathena",
                 "repo": "rathena",
-                "stars": 3575,
+                "stars": 3577,
                 "topics": [
                   "c-plus-plus",
                   "education",
@@ -1426,7 +1426,7 @@
                 "open_issues": 30,
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
-                "stars": 709,
+                "stars": 712,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1489,7 +1489,7 @@
                 "open_issues": 6,
                 "owner": "pixeltris",
                 "repo": "YgoMaster",
-                "stars": 1367,
+                "stars": 1368,
                 "topics": [
                   "masterduel",
                   "yugioh"
@@ -1579,11 +1579,11 @@
                 "id": 1204412,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-23T07:58:19Z",
-                "open_issues": 1518,
+                "last_commit": "2026-09-23T22:19:12Z",
+                "open_issues": 1517,
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10783,
+                "stars": 10788,
                 "topics": [
                   "hacktoberfest",
                   "linux",
@@ -1608,11 +1608,11 @@
                 "id": 61980658,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-09-23T01:03:52Z",
+                "last_commit": "2026-09-24T00:17:35Z",
                 "open_issues": 2438,
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 8959,
+                "stars": 8963,
                 "topics": [
                   "azerothcore",
                   "emulator",
@@ -1666,7 +1666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:00:32.066Z",
+    "last_updated": "2026-09-24T13:57:31.713Z",
     "original_repository_info": {
       "archived": false,
       "description": "A non-exhaustive list of free custom server backend implementations for various games",
@@ -1678,7 +1678,7 @@
       "open_issues": 2,
       "owner": "fishiatee",
       "repo": "awesome-privateserver",
-      "stars": 183,
+      "stars": 185,
       "topics": [
         "awesome",
         "awesome-list",
