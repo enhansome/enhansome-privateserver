@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "🟩 garcia",
-              "description": null,
+              "description": "yoncodes/garcia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -36,7 +36,7 @@
             {
               "node_type": "item",
               "title": "🟩 Impostor",
-              "description": null,
+              "description": "Impostor/Impostor",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -45,8 +45,8 @@
                 "id": 297163997,
                 "language": "C#",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-30T18:04:32Z",
-                "open_issues": 38,
+                "last_commit": "2026-10-02T20:15:48Z",
+                "open_issues": 37,
                 "owner": "Impostor",
                 "repo": "Impostor",
                 "stars": 2371,
@@ -67,12 +67,12 @@
             {
               "node_type": "item",
               "title": "🟩 Arcaea-server",
-              "description": null,
+              "description": "Lost-MSth/Arcaea-server",
               "children": [
                 {
                   "node_type": "item",
                   "title": "🟩 Notable fork",
-                  "description": null,
+                  "description": "Moli13337/Arcaea-6.15.0c",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -126,7 +126,7 @@
             {
               "node_type": "item",
               "title": "🟩 OpenBachelorS",
-              "description": null,
+              "description": "pfyy/OpenBachelorS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -135,7 +135,7 @@
                 "id": 1141503918,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-02T12:17:38Z",
+                "last_commit": "2026-10-02T18:09:40Z",
                 "open_issues": 0,
                 "owner": "pfyy",
                 "repo": "OpenBachelorS",
@@ -147,7 +147,7 @@
             {
               "node_type": "item",
               "title": "🟥 DoctoratePy",
-              "description": null,
+              "description": "nonobject14514/DoctoratePy",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -175,7 +175,7 @@
             {
               "node_type": "item",
               "title": "🟩 perlica-rs",
-              "description": null,
+              "description": "Yoshk4e/perlica-rs",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -206,7 +206,7 @@
             {
               "node_type": "item",
               "title": "🟩 Azurlane-9.7.205",
-              "description": null,
+              "description": "Moli13337/Azurlane-9.7.205",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -219,7 +219,7 @@
                 "open_issues": 0,
                 "owner": "Moli13337",
                 "repo": "Azurlane-9.7.205",
-                "stars": 272,
+                "stars": 273,
                 "topics": [
                   "azur-lane",
                   "azurlane",
@@ -235,7 +235,7 @@
             {
               "node_type": "item",
               "title": "🟥 Belfast",
-              "description": null,
+              "description": "ggmolly/belfast",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -270,7 +270,7 @@
             {
               "node_type": "item",
               "title": "🟥 BaPs",
-              "description": null,
+              "description": "gucooing/BaPs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -298,7 +298,7 @@
             {
               "node_type": "item",
               "title": "🟩 OpenRA",
-              "description": null,
+              "description": "OpenRA/OpenRA",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -308,10 +308,10 @@
                 "language": "C#",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-30T15:31:03Z",
-                "open_issues": 1585,
+                "open_issues": 1586,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17471,
+                "stars": 17474,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -342,7 +342,7 @@
             {
               "node_type": "item",
               "title": "🟩 Revivalside",
-              "description": null,
+              "description": "MadlyMoe/RevivalSide",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -370,7 +370,7 @@
             {
               "node_type": "item",
               "title": "🟩 Dawnshard",
-              "description": null,
+              "description": "SapiensAnatis/Dawnshard",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -383,7 +383,7 @@
                 "open_issues": 63,
                 "owner": "SapiensAnatis",
                 "repo": "Dawnshard",
-                "stars": 149,
+                "stars": 150,
                 "topics": [
                   "asp-net-core",
                   "docker"
@@ -394,7 +394,7 @@
             {
               "node_type": "item",
               "title": "🟩 Orchis",
-              "description": null,
+              "description": "CerisWhite/Orchis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -429,12 +429,12 @@
             {
               "node_type": "item",
               "title": "🟥 Single Player Tarkov",
-              "description": null,
+              "description": "sp-tarkov/server",
               "children": [
                 {
                   "node_type": "item",
                   "title": "🟥 C# Rewrite",
-                  "description": null,
+                  "description": "sp-tarkov/server-csharp",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -475,7 +475,7 @@
             {
               "node_type": "item",
               "title": "🟩 SP-Tushonka",
-              "description": null,
+              "description": "SP-Tushonka/server-csharp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -484,7 +484,7 @@
                 "id": 1327133538,
                 "language": "C#",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-01T10:34:15Z",
+                "last_commit": "2026-10-02T22:48:29Z",
                 "open_issues": 57,
                 "owner": "SP-Tushonka",
                 "repo": "server-csharp",
@@ -503,7 +503,7 @@
             {
               "node_type": "item",
               "title": "🟩 EpinelPS",
-              "description": null,
+              "description": "EpinelPS/EpinelPS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -513,7 +513,7 @@
                 "language": "C#",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-23T19:35:05Z",
-                "open_issues": 18,
+                "open_issues": 20,
                 "owner": "EpinelPS",
                 "repo": "EpinelPS",
                 "stars": 562,
@@ -531,12 +531,12 @@
             {
               "node_type": "item",
               "title": "🟥 Grasscutter",
-              "description": null,
+              "description": "Grasscutters/Grasscutter",
               "children": [
                 {
                   "node_type": "item",
                   "title": "🟩 AGS-GC",
-                  "description": null,
+                  "description": "Anime-Game-Servers/AGS-GC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -557,7 +557,7 @@
                 {
                   "node_type": "item",
                   "title": "🟩 LunaGC",
-                  "description": null,
+                  "description": "girluh/LunaGC",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -570,7 +570,7 @@
                     "open_issues": 0,
                     "owner": "girluh",
                     "repo": "LunaGC",
-                    "stars": 22,
+                    "stars": 23,
                     "topics": []
                   },
                   "first_seen": "2026-08-30T14:13:18.723Z"
@@ -587,7 +587,7 @@
                 "open_issues": 152,
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16814,
+                "stars": 16816,
                 "topics": [
                   "java",
                   "kcp",
@@ -600,7 +600,7 @@
             {
               "node_type": "item",
               "title": "🟩 KazusaGI_cb2",
-              "description": null,
+              "description": "Hiro420/KazusaGI_cb2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -621,7 +621,7 @@
             {
               "node_type": "item",
               "title": "🟥 hk4e-go",
-              "description": null,
+              "description": "Kei-Luna/hk4e-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -649,7 +649,7 @@
             {
               "node_type": "item",
               "title": "🟩 NTRSimulator",
-              "description": null,
+              "description": "raphaeIl/NTRSimulator",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -677,7 +677,7 @@
             {
               "node_type": "item",
               "title": "🟥 KianaBH3",
-              "description": null,
+              "description": "MikuLeaks/KianaBH3",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -705,7 +705,7 @@
             {
               "node_type": "item",
               "title": "🟥 LunarCore",
-              "description": null,
+              "description": "Melledy/LunarCore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -718,7 +718,7 @@
                 "open_issues": 27,
                 "owner": "Melledy",
                 "repo": "LunarCore",
-                "stars": 1432,
+                "stars": 1434,
                 "topics": [
                   "game-server"
                 ]
@@ -728,7 +728,7 @@
             {
               "node_type": "item",
               "title": "🟥 KazusaHSR_0.56",
-              "description": null,
+              "description": "Hiro420/KazusaHSR_0.56",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -749,7 +749,7 @@
             {
               "node_type": "item",
               "title": "🟥 March7thHoney",
-              "description": null,
+              "description": "Mar7thLover/March7thHoney-OpenSource",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -770,7 +770,7 @@
             {
               "node_type": "item",
               "title": "🟥 HyacineDH-Core",
-              "description": null,
+              "description": "Mar7thLover/HyacineDH-Core",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -791,7 +791,7 @@
             {
               "node_type": "item",
               "title": "🟥 HyacineDH-3.8",
-              "description": null,
+              "description": "Mar7thLover/HyacineDH-3.8",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -819,7 +819,7 @@
             {
               "node_type": "item",
               "title": "🟩 OpenLethe",
-              "description": null,
+              "description": "LEAGUE-OF-NINE/OpenLethe",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -828,7 +828,7 @@
                 "id": 1306928510,
                 "language": "C#",
                 "license": null,
-                "last_commit": "2026-09-27T13:00:31Z",
+                "last_commit": "2026-10-02T20:44:58Z",
                 "open_issues": 0,
                 "owner": "LEAGUE-OF-NINE",
                 "repo": "OpenLethe",
@@ -847,7 +847,7 @@
             {
               "node_type": "item",
               "title": "🟩 ew",
-              "description": null,
+              "description": "ethanaobrien/ew",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -878,7 +878,7 @@
             {
               "node_type": "item",
               "title": "🟩 Pumpkin",
-              "description": null,
+              "description": "Pumpkin-MC/Pumpkin",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -888,10 +888,10 @@
                 "language": "Rust",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-02T01:53:12Z",
-                "open_issues": 606,
+                "open_issues": 615,
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 11854,
+                "stars": 11867,
                 "topics": [
                   "docker",
                   "game-server",
@@ -910,7 +910,7 @@
             {
               "node_type": "item",
               "title": "🟥 PocketMine-MP",
-              "description": null,
+              "description": "pmmp/PocketMine-MP",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -939,7 +939,7 @@
             {
               "node_type": "item",
               "title": "🟩 FerrumC",
-              "description": null,
+              "description": "ferrumc-rs/ferrumc",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -980,7 +980,7 @@
             {
               "node_type": "item",
               "title": "🟩 SteelMC",
-              "description": null,
+              "description": "Steel-Foundation/SteelMC",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -993,7 +993,7 @@
                 "open_issues": 116,
                 "owner": "Steel-Foundation",
                 "repo": "SteelMC",
-                "stars": 723,
+                "stars": 727,
                 "topics": []
               },
               "first_seen": "2026-08-30T14:13:18.723Z"
@@ -1008,7 +1008,7 @@
             {
               "node_type": "item",
               "title": "🟩 Lunar Tear",
-              "description": null,
+              "description": "Walter-Sparrow/lunar-tear",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1038,12 +1038,12 @@
             {
               "node_type": "item",
               "title": "🟧 bancho.py",
-              "description": null,
+              "description": "osuAkatsuki/bancho.py",
               "children": [
                 {
                   "node_type": "item",
                   "title": "🟩 bancho.py-ex",
-                  "description": null,
+                  "description": "osu-NoLimits/bancho.py-ex",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1073,7 +1073,7 @@
                 "id": 275804990,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-28T22:21:30Z",
+                "last_commit": "2026-10-02T18:36:50Z",
                 "open_issues": 59,
                 "owner": "osuAkatsuki",
                 "repo": "bancho.py",
@@ -1098,7 +1098,7 @@
             {
               "node_type": "item",
               "title": "🟩 Titanic",
-              "description": null,
+              "description": "osuTitanic/titanic",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1107,7 +1107,7 @@
                 "id": 659408796,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-30T18:31:02Z",
+                "last_commit": "2026-10-02T21:19:46Z",
                 "open_issues": 25,
                 "owner": "osuTitanic",
                 "repo": "titanic",
@@ -1125,7 +1125,7 @@
             {
               "node_type": "item",
               "title": "🟩 Sunrise",
-              "description": null,
+              "description": "SunriseCommunity/Sunrise",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1156,7 +1156,7 @@
             {
               "node_type": "item",
               "title": "🟩 g0v0-server",
-              "description": null,
+              "description": "GooGuTeam/g0v0-server",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1191,7 +1191,7 @@
             {
               "node_type": "item",
               "title": "🟩 LoLo",
-              "description": null,
+              "description": "BanterSR/Lolo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1212,7 +1212,7 @@
             {
               "node_type": "item",
               "title": "🟩 of-ps",
-              "description": null,
+              "description": "byzp/of-ps",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1242,12 +1242,12 @@
             {
               "node_type": "item",
               "title": "🟥 AscNet",
-              "description": null,
+              "description": "rafi1212122/AscNet",
               "children": [
                 {
                   "node_type": "item",
                   "title": "🟩 InfiniteLoop",
-                  "description": null,
+                  "description": "reiserFSs/InfiniteLoop",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1274,7 +1274,7 @@
                 {
                   "node_type": "item",
                   "title": "🟥 Lucia",
-                  "description": null,
+                  "description": "yoncodes/Lucia",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1323,7 +1323,7 @@
             {
               "node_type": "item",
               "title": "🟩 rAthena",
-              "description": null,
+              "description": "rathena/rathena",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1336,7 +1336,7 @@
                 "open_issues": 626,
                 "owner": "rathena",
                 "repo": "rathena",
-                "stars": 3587,
+                "stars": 3588,
                 "topics": [
                   "c-plus-plus",
                   "education",
@@ -1364,7 +1364,7 @@
             {
               "node_type": "item",
               "title": "🟥 sonetto-rs",
-              "description": null,
+              "description": "Yoshk4e/sonetto-rs",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -1385,7 +1385,7 @@
             {
               "node_type": "item",
               "title": "🟩 enigma",
-              "description": null,
+              "description": "yoncodes/enigma",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1394,8 +1394,8 @@
                 "id": 1305659266,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-02T14:26:57Z",
-                "open_issues": 43,
+                "last_commit": "2026-10-03T04:29:07Z",
+                "open_issues": 15,
                 "owner": "yoncodes",
                 "repo": "enigma",
                 "stars": 16,
@@ -1413,7 +1413,7 @@
             {
               "node_type": "item",
               "title": "🟩 MikuSB",
-              "description": null,
+              "description": "MikuLeaks/MikuSB",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1426,7 +1426,7 @@
                 "open_issues": 28,
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
-                "stars": 736,
+                "stars": 738,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1448,7 +1448,7 @@
             {
               "node_type": "item",
               "title": "🟩 Nebula",
-              "description": null,
+              "description": "Melledy/Nebula",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1461,7 +1461,7 @@
                 "open_issues": 1,
                 "owner": "Melledy",
                 "repo": "Nebula",
-                "stars": 128,
+                "stars": 129,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -1476,7 +1476,7 @@
             {
               "node_type": "item",
               "title": "🟩 YgoMaster",
-              "description": null,
+              "description": "pixeltris/YgoMaster",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1512,7 +1512,7 @@
                 {
                   "node_type": "item",
                   "title": "🟩 Remielle",
-                  "description": null,
+                  "description": "thexeondev/remielle",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1525,7 +1525,7 @@
                     "open_issues": 0,
                     "owner": "thexeondev",
                     "repo": "remielle",
-                    "stars": 48,
+                    "stars": 49,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T20:35:11.369Z"
@@ -1542,7 +1542,7 @@
             {
               "node_type": "item",
               "title": "🟥 Starpoint",
-              "description": null,
+              "description": "duosii/starpoint",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1570,7 +1570,7 @@
             {
               "node_type": "item",
               "title": "🟩 TrinityCore",
-              "description": null,
+              "description": "TrinityCore/TrinityCore",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1579,11 +1579,11 @@
                 "id": 1204412,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-02T11:21:00Z",
-                "open_issues": 1503,
+                "last_commit": "2026-10-02T23:36:29Z",
+                "open_issues": 1500,
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
-                "stars": 10801,
+                "stars": 10802,
                 "topics": [
                   "hacktoberfest",
                   "linux",
@@ -1599,7 +1599,7 @@
             {
               "node_type": "item",
               "title": "🟩 AzerothCore",
-              "description": null,
+              "description": "azerothcore/azerothcore-wotlk",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1609,7 +1609,7 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-02T14:53:42Z",
-                "open_issues": 2414,
+                "open_issues": 2425,
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
                 "stars": 8989,
@@ -1666,7 +1666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T15:14:59.654Z",
+    "last_updated": "2026-10-03T05:03:14.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A non-exhaustive list of free custom server backend implementations for various games",
