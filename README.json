@@ -311,7 +311,7 @@
                 "open_issues": 1588,
                 "owner": "OpenRA",
                 "repo": "OpenRA",
-                "stars": 17493,
+                "stars": 17496,
                 "topics": [
                   "command-and-conquer",
                   "cross-platform",
@@ -587,7 +587,7 @@
                 "open_issues": 152,
                 "owner": "Grasscutters",
                 "repo": "Grasscutter",
-                "stars": 16821,
+                "stars": 16822,
                 "topics": [
                   "java",
                   "kcp",
@@ -690,7 +690,7 @@
                 "open_issues": 1,
                 "owner": "MikuLeaks",
                 "repo": "KianaBH3",
-                "stars": 129,
+                "stars": 130,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:35:11.369Z"
@@ -887,11 +887,11 @@
                 "id": 834966974,
                 "language": "Rust",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-06T08:58:24Z",
-                "open_issues": 599,
+                "last_commit": "2026-10-06T15:22:46Z",
+                "open_issues": 604,
                 "owner": "Pumpkin-MC",
                 "repo": "Pumpkin",
-                "stars": 12005,
+                "stars": 12018,
                 "topics": [
                   "docker",
                   "game-server",
@@ -989,11 +989,11 @@
                 "id": 1076860017,
                 "language": "Rust",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-05T22:00:43Z",
-                "open_issues": 116,
+                "last_commit": "2026-10-06T15:27:04Z",
+                "open_issues": 115,
                 "owner": "Steel-Foundation",
                 "repo": "SteelMC",
-                "stars": 737,
+                "stars": 738,
                 "topics": []
               },
               "first_seen": "2026-08-30T14:13:18.723Z"
@@ -1021,7 +1021,7 @@
                 "open_issues": 1,
                 "owner": "Walter-Sparrow",
                 "repo": "lunar-tear",
-                "stars": 1068,
+                "stars": 1070,
                 "topics": [
                   "private-server"
                 ]
@@ -1398,7 +1398,7 @@
                 "open_issues": 13,
                 "owner": "yoncodes",
                 "repo": "enigma",
-                "stars": 17,
+                "stars": 18,
                 "topics": []
               },
               "first_seen": "2026-08-30T14:13:18.723Z"
@@ -1426,7 +1426,7 @@
                 "open_issues": 28,
                 "owner": "MikuLeaks",
                 "repo": "MikuSB",
-                "stars": 751,
+                "stars": 753,
                 "topics": [
                   "csharp",
                   "dotnet",
@@ -1579,7 +1579,7 @@
                 "id": 1204412,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-05T22:39:36Z",
+                "last_commit": "2026-10-06T12:04:19Z",
                 "open_issues": 1490,
                 "owner": "TrinityCore",
                 "repo": "TrinityCore",
@@ -1609,10 +1609,10 @@
                 "language": "C++",
                 "license": "GPL-2.0",
                 "last_commit": "2026-10-06T00:40:09Z",
-                "open_issues": 2427,
+                "open_issues": 2431,
                 "owner": "azerothcore",
                 "repo": "azerothcore-wotlk",
-                "stars": 9006,
+                "stars": 9007,
                 "topics": [
                   "azerothcore",
                   "emulator",
@@ -1666,7 +1666,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:23:38.531Z",
+    "last_updated": "2026-10-06T15:37:51.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "A non-exhaustive list of free custom server backend implementations for various games",
@@ -1678,7 +1678,7 @@
       "open_issues": 2,
       "owner": "fishiatee",
       "repo": "awesome-privateserver",
-      "stars": 205,
+      "stars": 206,
       "topics": [
         "awesome",
         "awesome-list",
