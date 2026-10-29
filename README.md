@@ -4,7 +4,7 @@
 
 A non-exhaustive list of free custom server backend implementations for various online games that can be [self-hosted](https://en.wikipedia.org/wiki/Self-hosting_\(network\)).
 
-This list is partially inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 331,328 | 🐛 0 | 📅 2026-10-27, go check them out for cool self-hosted goodies!
+This list is partially inspired by [awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) ⭐ 331,687 | 🐛 0 | 📅 2026-10-29, go check them out for cool self-hosted goodies!
 
 Contributions are always appreciated, check the [Contributing](#contributing) section for more details!
 
@@ -82,7 +82,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Innersloth.
 
-* 🟩 [Impostor](https://github.com/Impostor/Impostor) ⭐ 2,376 | 🐛 41 | 🌐 C# | 📅 2026-10-27 `C#/GPL-3.0`
+* 🟩 [Impostor](https://github.com/Impostor/Impostor) ⭐ 2,377 | 🐛 41 | 🌐 C# | 📅 2026-10-27 `C#/GPL-3.0`
 
 ***
 
@@ -101,7 +101,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by Hypergryph. Published by Hypergryph in China, Gryphline in Taiwan, and Yostar worldwide.
 
-* 🟩 [OpenBachelorS](https://github.com/pfyy/OpenBachelorS) ⭐ 44 | 🐛 0 | 🌐 Python | 📅 2026-10-28 `Python/ARR`
+* 🟩 [OpenBachelorS](https://github.com/pfyy/OpenBachelorS) ⭐ 45 | 🐛 0 | 🌐 Python | 📅 2026-10-28 `Python/ARR`
 * 🟥 [DoctoratePy](https://github.com/nonobject14514/DoctoratePy) ⭐ 26 | 🐛 0 | 📅 2023-01-21 `Python/ARR`
   * 🟩 [OpenDoctoratePy-EX](https://dc.jiellll1219.qzz.io/jiellll1219/OpenDoctoratePy-EX-Public/) `Python/GPL-3.0`
 
@@ -122,7 +122,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed by Manjuu. Published by Bilibili in China, XD Global in Korea, PWB Play in Taiwan, Hong Kong and Macau, and Yostar worldwide.
 
 * 🟩 [Azurlane-9.7.205](https://github.com/Moli13337/Azurlane-9.7.205) ⭐ 274 | 🐛 0 | 🌐 Kotlin | 📅 2026-06-24[^3] `Kotlin/ARR`
-* 🟥 [Belfast](https://github.com/ggmolly/belfast) ⭐ 123 | 🐛 5 | 🌐 Go | 📅 2026-10-24 `Go/GPL-3.0`
+* 🟥 [Belfast](https://github.com/ggmolly/belfast) ⭐ 124 | 🐛 11 | 🌐 Go | 📅 2026-10-24 `Go/GPL-3.0`
 
 ***
 
@@ -140,7 +140,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Westwood Studios (now Electronic Arts).
 
-* 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,679 | 🐛 1,611 | 🌐 C# | 📅 2026-10-25 `C#/GPL-3.0`
+* 🟩 [OpenRA](https://github.com/OpenRA/OpenRA) ⭐ 17,684 | 🐛 1,599 | 🌐 C# | 📅 2026-10-28 `C#/GPL-3.0`
 
 ***
 
@@ -179,7 +179,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by Shift Up. Published by Level Infinite.
 
-* 🟩 [EpinelPS](https://github.com/EpinelPS/EpinelPS) ⭐ 577 | 🐛 21 | 🌐 C# | 📅 2026-10-25 `C#/AGPL-3.0`
+* 🟩 [EpinelPS](https://github.com/EpinelPS/EpinelPS) ⭐ 579 | 🐛 21 | 🌐 C# | 📅 2026-10-28 `C#/AGPL-3.0`
 
 ***
 
@@ -188,7 +188,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by miHoYo. Published by miHoYo in China and HoYoverse worldwide.
 
-* 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) ⭐ 16,827 | 🐛 153 | 🌐 Java | 📅 2026-03-04 `Java/AGPL-3.0`
+* 🟥 [Grasscutter](https://github.com/Grasscutters/Grasscutter) ⭐ 16,826 | 🐛 153 | 🌐 Java | 📅 2026-03-04 `Java/AGPL-3.0`
   * 🟩 [AGS-GC](https://github.com/Anime-Game-Servers/AGS-GC) ⭐ 179 | 🐛 38 | 🌐 Java | 📅 2026-10-19
   * 🟩 [LunaGC](https://github.com/girluh/LunaGC) ⭐ 33 | 🐛 0 | 🌐 Java | 📅 2026-10-20
 * 🟩 [KazusaGI\_cb2](https://github.com/Hiro420/KazusaGI_cb2) ⭐ 19 | 🐛 0 | 🌐 C# | 📅 2026-08-28 `C#/MIT`
@@ -220,7 +220,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by miHoYo. Published by miHoYo in China, Nijigen Games in Taiwan, Hong Kong and Macau, 3T Online in Vietnam, and HoYoverse worldwide.
 
-* 🟥 [LunarCore](https://github.com/Melledy/LunarCore) ⭐ 1,433 | 🐛 27 | 🌐 Java | 📅 2026-05-27 `Java/AGPL-3.0`
+* 🟥 [LunarCore](https://github.com/Melledy/LunarCore) ⭐ 1,435 | 🐛 27 | 🌐 Java | 📅 2026-05-27 `Java/AGPL-3.0`
 * 🟥 [KazusaHSR\_0.56](https://github.com/Hiro420/KazusaHSR_0.56) ⭐ 8 | 🐛 0 | 🌐 C# | 📅 2026-05-15 `C#/AGPL-3.0`
 * 🟩 [DanhengServer](https://github.com/DB-Sky/DanhengServer-OpenSource) ⭐ 4 | 🐛 0 | 📅 2025-12-27 `C#/AGPL-3.0`
   * 🟥 [March7thHoney](https://github.com/Mar7thLover/March7thHoney-OpenSource) ⭐ 44 | 🐛 3 | 🌐 C# | 📅 2026-09-09[^4]
@@ -252,10 +252,10 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Mojang Studios.
 
-* 🟩 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) ⭐ 12,706 | 🐛 869 | 🌐 Rust | 📅 2026-10-28 `Rust/MIT`
+* 🟩 [Pumpkin](https://github.com/Pumpkin-MC/Pumpkin) ⭐ 12,725 | 🐛 876 | 🌐 Rust | 📅 2026-10-29 `Rust/MIT`
 * 🟥 [PocketMine-MP](https://github.com/pmmp/PocketMine-MP) ⚠️ Archived `PHP/LGPL-3.0`
-* 🟩 [FerrumC](https://github.com/ferrumc-rs/ferrumc) ⭐ 2,454 | 🐛 27 | 🌐 Rust | 📅 2026-08-14 `Rust/MIT`
-* 🟩 [SteelMC](https://github.com/Steel-Foundation/SteelMC) ⭐ 931 | 🐛 88 | 🌐 Rust | 📅 2026-10-27 `Rust/AGPL-3.0`
+* 🟩 [FerrumC](https://github.com/ferrumc-rs/ferrumc) ⭐ 2,458 | 🐛 27 | 🌐 Rust | 📅 2026-08-14 `Rust/MIT`
+* 🟩 [SteelMC](https://github.com/Steel-Foundation/SteelMC) ⭐ 942 | 🐛 84 | 🌐 Rust | 📅 2026-10-29 `Rust/AGPL-3.0`
 
 ***
 
@@ -264,7 +264,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed by Applibot. Published by Square Enix. This game had reached End of Service since April 2024.
 
-* 🟩 [Lunar Tear](https://github.com/Walter-Sparrow/lunar-tear) ⭐ 1,092 | 🐛 1 | 🌐 Go | 📅 2026-05-28 `Go/MIT`
+* 🟩 [Lunar Tear](https://github.com/Walter-Sparrow/lunar-tear) ⭐ 1,095 | 🐛 1 | 🌐 Go | 📅 2026-05-28 `Go/MIT`
 
 ***
 
@@ -277,7 +277,7 @@ Different server implementations will be categorized by the games that they're u
   * 🟩 [bancho.py-ex](https://github.com/osu-NoLimits/bancho.py-ex) ⭐ 14 | 🐛 6 | 🌐 Python | 📅 2026-07-24
 * 🟩 [Titanic](https://github.com/osuTitanic/titanic) ⭐ 59 | 🐛 14 | 🌐 Go | 📅 2026-10-28 `Python/MIT`
 * 🟩 [Sunrise](https://github.com/SunriseCommunity/Sunrise) ⭐ 52 | 🐛 0 | 🌐 C# | 📅 2026-10-26 `C#/MIT`
-* 🟩 [g0v0-server](https://github.com/GooGuTeam/g0v0-server) ⭐ 39 | 🐛 11 | 🌐 Python | 📅 2026-10-28 `Python/AGPL-3.0`
+* 🟩 [g0v0-server](https://github.com/GooGuTeam/g0v0-server) ⭐ 41 | 🐛 11 | 🌐 Python | 📅 2026-10-28 `Python/AGPL-3.0`
 
 ***
 
@@ -297,7 +297,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Kuro Games.
 
 * 🟥 [AscNet](https://github.com/rafi1212122/AscNet) ⭐ 94 | 🐛 1 | 🌐 C# | 📅 2026-04-04 `C#/ARR`
-  * 🟩 [InfiniteLoop](https://github.com/reiserFSs/InfiniteLoop) ⭐ 48 | 🐛 2 | 🌐 HTML | 📅 2026-10-27
+  * 🟩 [InfiniteLoop](https://github.com/reiserFSs/InfiniteLoop) ⭐ 48 | 🐛 2 | 🌐 HTML | 📅 2026-10-29
   * 🟥 [Lucia](https://github.com/yoncodes/Lucia) ⭐ 9 | 🐛 0 | 🌐 C# | 📅 2025-11-24
 
 ***
@@ -307,7 +307,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Gravity.
 
-* 🟩 [rAthena](https://github.com/rathena/rathena) ⭐ 3,636 | 🐛 650 | 🌐 C++ | 📅 2026-10-06 `C/GPL-3.0`
+* 🟩 [rAthena](https://github.com/rathena/rathena) ⭐ 3,638 | 🐛 650 | 🌐 C++ | 📅 2026-10-06 `C/GPL-3.0`
 
 ***
 
@@ -317,7 +317,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed and published by Bluepoch.
 
 * 🟥 [sonetto-rs](https://github.com/Yoshk4e/sonetto-rs) ⚠️ Archived `Rust/ARR`
-* 🟩 [enigma](https://github.com/yoncodes/enigma) ⭐ 21 | 🐛 3 | 🌐 Rust | 📅 2026-10-28 `Rust/ARR`
+* 🟩 [enigma](https://github.com/yoncodes/enigma) ⭐ 21 | 🐛 6 | 🌐 Rust | 📅 2026-10-29 `Rust/ARR`
 
 ***
 
@@ -354,7 +354,7 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Konami Digital Entertainment.
 
-* 🟩 [YgoMaster](https://github.com/pixeltris/YgoMaster) ⭐ 1,395 | 🐛 11 | 🌐 C# | 📅 2026-10-15 `C#/MIT`
+* 🟩 [YgoMaster](https://github.com/pixeltris/YgoMaster) ⭐ 1,397 | 🐛 12 | 🌐 C# | 📅 2026-10-15 `C#/MIT`
 
 ***
 
@@ -364,7 +364,7 @@ Different server implementations will be categorized by the games that they're u
 > Developed by miHoYo. Published by miHoYo in China and HoYoverse worldwide.
 
 * 🟥 [Yoshunko](https://git.xeondev.com/yoshunko/yoshunko) `Zig/AGPL-3.0`
-  * 🟩 [Remielle](https://github.com/thexeondev/remielle) ⭐ 57 | 🐛 0 | 🌐 Zig | 📅 2026-10-25 `Zig/AGPL-3.0`
+  * 🟩 [Remielle](https://github.com/thexeondev/remielle) ⭐ 58 | 🐛 0 | 🌐 Zig | 📅 2026-10-25 `Zig/AGPL-3.0`
 
 ***
 
@@ -373,16 +373,16 @@ Different server implementations will be categorized by the games that they're u
 > \[!NOTE]
 > Developed and published by Cygames. This game had reached End of Service since July 2024.
 
-* 🟥 [Starpoint](https://github.com/duosii/starpoint) ⭐ 292 | 🐛 6 | 🌐 TypeScript | 📅 2025-04-01 `TypeScript/GPL-3.0`
+* 🟥 [Starpoint](https://github.com/duosii/starpoint) ⭐ 290 | 🐛 6 | 🌐 TypeScript | 📅 2025-04-01 `TypeScript/GPL-3.0`
 
 ### World of Warcraft (2004)
 
 > \[!NOTE]
 > Developed and published by Blizzard Entertainment.
 
-* 🟩 [TrinityCore](https://github.com/TrinityCore/TrinityCore) ⭐ 10,848 | 🐛 1,516 | 🌐 C++ | 📅 2026-10-27 `C++/GPL-2.0`
-* 🟩 [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) ⭐ 9,113 | 🐛 2,298 | 🌐 C++ | 📅 2026-10-28 `C++/GPL-2.0`
-* 🟩 [C-MaNGOS](https://github.com/cmangos/mangos-wotlk) ⭐ 561 | 🐛 65 | 🌐 C++ | 📅 2026-10-27 `C++/GPL-2.0` (WotLK branch)
+* 🟩 [TrinityCore](https://github.com/TrinityCore/TrinityCore) ⭐ 10,848 | 🐛 1,517 | 🌐 C++ | 📅 2026-10-29 `C++/GPL-2.0`
+* 🟩 [AzerothCore](https://github.com/azerothcore/azerothcore-wotlk) ⭐ 9,119 | 🐛 2,309 | 🌐 C++ | 📅 2026-10-28 `C++/GPL-2.0`
+* 🟩 [C-MaNGOS](https://github.com/cmangos/mangos-wotlk) ⭐ 561 | 🐛 66 | 🌐 C++ | 📅 2026-10-27 `C++/GPL-2.0` (WotLK branch)
 
 ***
 
@@ -438,4 +438,4 @@ If you have any questions, feel free to [create an issue](https://github.com/fis
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
